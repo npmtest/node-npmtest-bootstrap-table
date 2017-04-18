@@ -1,0 +1,759 @@
+<svg height="12094" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="12094" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 00:58:48 +0000  4915708 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 00:58:48 +0000    18884 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 00:58:48 +0000     9868 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 00:58:48 +0000     1207 bytes  DONATORS.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 00:58:48 +0000     4931 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 00:58:48 +0000     1104 bytes  LICENSE</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 00:58:48 +0000     3518 bytes  README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 00:58:48 +0000      721 bytes  _config.yml</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 00:58:48 +0000      860 bytes  bootstrap-table.jquery.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 00:58:48 +0000      639 bytes  bower.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 00:58:48 +0000      519 bytes  composer.json</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 00:58:48 +0000    58529 bytes  dist/bootstrap-table-locale-all.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 00:58:48 +0000    33641 bytes  dist/bootstrap-table-locale-all.min.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 00:58:48 +0000     7149 bytes  dist/bootstrap-table.css</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 00:58:48 +0000   109621 bytes  dist/bootstrap-table.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 00:58:48 +0000     5713 bytes  dist/bootstrap-table.min.css</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 00:58:48 +0000    54644 bytes  dist/bootstrap-table.min.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 00:58:48 +0000    11731 bytes  dist/extensions/accent-neutralise/bootstrap-tabl\</tspan>
+<tspan x="10" y="314">e-accent-neutralise.js</tspan>
+<tspan x="10" y="330"> 18.  2017-04-18 00:58:48 +0000     5660 bytes  dist/extensions/accent-neutralise/bootstrap-tabl\</tspan>
+<tspan x="10" y="346">e-accent-neutralise.min.js</tspan>
+<tspan x="10" y="362"> 19.  2017-04-18 00:58:48 +0000     4067 bytes  dist/extensions/angular/bootstrap-table-angular.\</tspan>
+<tspan x="10" y="378">js</tspan>
+<tspan x="10" y="394"> 20.  2017-04-18 00:58:48 +0000     2122 bytes  dist/extensions/angular/bootstrap-table-angular.\</tspan>
+<tspan x="10" y="410">min.js</tspan>
+<tspan x="10" y="426"> 21.  2017-04-18 00:58:48 +0000       46 bytes  dist/extensions/auto-refresh/bootstrap-table-aut\</tspan>
+<tspan x="10" y="442">o-refresh.css</tspan>
+<tspan x="10" y="458"> 22.  2017-04-18 00:58:48 +0000     2742 bytes  dist/extensions/auto-refresh/bootstrap-table-aut\</tspan>
+<tspan x="10" y="474">o-refresh.js</tspan>
+<tspan x="10" y="490"> 23.  2017-04-18 00:58:48 +0000     2058 bytes  dist/extensions/auto-refresh/bootstrap-table-aut\</tspan>
+<tspan x="10" y="506">o-refresh.min.js</tspan>
+<tspan x="10" y="522"> 24.  2017-04-18 00:58:48 +0000      287 bytes  dist/extensions/click-edit-row/bootstrap-table-c\</tspan>
+<tspan x="10" y="538">lick-edit-row.css</tspan>
+<tspan x="10" y="554"> 25.  2017-04-18 00:58:48 +0000     5516 bytes  dist/extensions/click-edit-row/bootstrap-table-c\</tspan>
+<tspan x="10" y="570">lick-edit-row.js</tspan>
+<tspan x="10" y="586"> 26.  2017-04-18 00:58:48 +0000     2845 bytes  dist/extensions/click-edit-row/bootstrap-table-c\</tspan>
+<tspan x="10" y="602">lick-edit-row.min.js</tspan>
+<tspan x="10" y="618"> 27.  2017-04-18 00:58:48 +0000    16449 bytes  dist/extensions/cookie/bootstrap-table-cookie.js</tspan>
+<tspan x="10" y="634"> 28.  2017-04-18 00:58:48 +0000     7476 bytes  dist/extensions/cookie/bootstrap-table-cookie.mi\</tspan>
+<tspan x="10" y="650">n.js</tspan>
+<tspan x="10" y="666"> 29.  2017-04-18 00:58:48 +0000     3568 bytes  dist/extensions/copy-rows/bootstrap-table-copy-r\</tspan>
+<tspan x="10" y="682">ows.js</tspan>
+<tspan x="10" y="698"> 30.  2017-04-18 00:58:48 +0000     2083 bytes  dist/extensions/copy-rows/bootstrap-table-copy-r\</tspan>
+<tspan x="10" y="714">ows.min.js</tspan>
+<tspan x="10" y="730"> 31.  2017-04-18 00:58:48 +0000     5410 bytes  dist/extensions/editable/bootstrap-table-editabl\</tspan>
+<tspan x="10" y="746">e.js</tspan>
+<tspan x="10" y="762"> 32.  2017-04-18 00:58:48 +0000     2521 bytes  dist/extensions/editable/bootstrap-table-editabl\</tspan>
+<tspan x="10" y="778">e.min.js</tspan>
+<tspan x="10" y="794"> 33.  2017-04-18 00:58:48 +0000     5213 bytes  dist/extensions/export/bootstrap-table-export.js</tspan>
+<tspan x="10" y="810"> 34.  2017-04-18 00:58:48 +0000     2580 bytes  dist/extensions/export/bootstrap-table-export.mi\</tspan>
+<tspan x="10" y="826">n.js</tspan>
+<tspan x="10" y="842"> 35.  2017-04-18 00:58:48 +0000      190 bytes  dist/extensions/filter-control/bootstrap-table-f\</tspan>
+<tspan x="10" y="858">ilter-control.css</tspan>
+<tspan x="10" y="874"> 36.  2017-04-18 00:58:48 +0000    27002 bytes  dist/extensions/filter-control/bootstrap-table-f\</tspan>
+<tspan x="10" y="890">ilter-control.js</tspan>
+<tspan x="10" y="906"> 37.  2017-04-18 00:58:48 +0000    11159 bytes  dist/extensions/filter-control/bootstrap-table-f\</tspan>
+<tspan x="10" y="922">ilter-control.min.js</tspan>
+<tspan x="10" y="938"> 38.  2017-04-18 00:58:48 +0000     1980 bytes  dist/extensions/filter/bootstrap-table-filter.js</tspan>
+<tspan x="10" y="954"> 39.  2017-04-18 00:58:48 +0000     1310 bytes  dist/extensions/filter/bootstrap-table-filter.mi\</tspan>
+<tspan x="10" y="970">n.js</tspan>
+<tspan x="10" y="986"> 40.  2017-04-18 00:58:48 +0000     1739 bytes  dist/extensions/flat-json/bootstrap-table-flat-j\</tspan>
+<tspan x="10" y="1002">son.js</tspan>
+<tspan x="10" y="1018"> 41.  2017-04-18 00:58:48 +0000      799 bytes  dist/extensions/flat-json/bootstrap-table-flat-j\</tspan>
+<tspan x="10" y="1034">son.min.js</tspan>
+<tspan x="10" y="1050"> 42.  2017-04-18 00:58:48 +0000      129 bytes  dist/extensions/group-by-v2/bootstrap-table-grou\</tspan>
+<tspan x="10" y="1066">p-by.css</tspan>
+<tspan x="10" y="1082"> 43.  2017-04-18 00:58:48 +0000     6938 bytes  dist/extensions/group-by-v2/bootstrap-table-grou\</tspan>
+<tspan x="10" y="1098">p-by.js</tspan>
+<tspan x="10" y="1114"> 44.  2017-04-18 00:58:48 +0000     3467 bytes  dist/extensions/group-by-v2/bootstrap-table-grou\</tspan>
+<tspan x="10" y="1130">p-by.min.js</tspan>
+<tspan x="10" y="1146"> 45.  2017-04-18 00:58:48 +0000    24204 bytes  dist/extensions/group-by/bootstrap-table-group-b\</tspan>
+<tspan x="10" y="1162">y.css</tspan>
+<tspan x="10" y="1178"> 46.  2017-04-18 00:58:48 +0000     7927 bytes  dist/extensions/group-by/bootstrap-table-group-b\</tspan>
+<tspan x="10" y="1194">y.js</tspan>
+<tspan x="10" y="1210"> 47.  2017-04-18 00:58:48 +0000     3420 bytes  dist/extensions/group-by/bootstrap-table-group-b\</tspan>
+<tspan x="10" y="1226">y.min.js</tspan>
+<tspan x="10" y="1242"> 48.  2017-04-18 00:58:48 +0000      759 bytes  dist/extensions/i18n-enhance/bootstrap-table-i18\</tspan>
+<tspan x="10" y="1258">n-enhance.js</tspan>
+<tspan x="10" y="1274"> 49.  2017-04-18 00:58:48 +0000      608 bytes  dist/extensions/i18n-enhance/bootstrap-table-i18\</tspan>
+<tspan x="10" y="1290">n-enhance.min.js</tspan>
+<tspan x="10" y="1306"> 50.  2017-04-18 00:58:48 +0000     2717 bytes  dist/extensions/key-events/bootstrap-table-key-e\</tspan>
+<tspan x="10" y="1322">vents.js</tspan>
+<tspan x="10" y="1338"> 51.  2017-04-18 00:58:48 +0000     1203 bytes  dist/extensions/key-events/bootstrap-table-key-e\</tspan>
+<tspan x="10" y="1354">vents.min.js</tspan>
+<tspan x="10" y="1370"> 52.  2017-04-18 00:58:48 +0000     4140 bytes  dist/extensions/mobile/bootstrap-table-mobile.js</tspan>
+<tspan x="10" y="1386"> 53.  2017-04-18 00:58:48 +0000     1854 bytes  dist/extensions/mobile/bootstrap-table-mobile.mi\</tspan>
+<tspan x="10" y="1402">n.js</tspan>
+<tspan x="10" y="1418"> 54.  2017-04-18 00:58:48 +0000     3114 bytes  dist/extensions/multi-column-toggle/bootstrap-ta\</tspan>
+<tspan x="10" y="1434">ble-multi-toggle.js</tspan>
+<tspan x="10" y="1450"> 55.  2017-04-18 00:58:48 +0000     1980 bytes  dist/extensions/multi-column-toggle/bootstrap-ta\</tspan>
+<tspan x="10" y="1466">ble-multi-toggle.min.js</tspan>
+<tspan x="10" y="1482"> 56.  2017-04-18 00:58:48 +0000     2905 bytes  dist/extensions/multiple-search/bootstrap-table-\</tspan>
+<tspan x="10" y="1498">multiple-search.js</tspan>
+<tspan x="10" y="1514"> 57.  2017-04-18 00:58:48 +0000     1315 bytes  dist/extensions/multiple-search/bootstrap-table-\</tspan>
+<tspan x="10" y="1530">multiple-search.min.js</tspan>
+<tspan x="10" y="1546"> 58.  2017-04-18 00:58:48 +0000      306 bytes  dist/extensions/multiple-selection-row/bootstrap\</tspan>
+<tspan x="10" y="1562">-table-multiple-selection-row.css</tspan>
+<tspan x="10" y="1578"> 59.  2017-04-18 00:58:48 +0000     4659 bytes  dist/extensions/multiple-selection-row/bootstrap\</tspan>
+<tspan x="10" y="1594">-table-multiple-selection-row.js</tspan>
+<tspan x="10" y="1610"> 60.  2017-04-18 00:58:48 +0000     2610 bytes  dist/extensions/multiple-selection-row/bootstrap\</tspan>
+<tspan x="10" y="1626">-table-multiple-selection-row.min.js</tspan>
+<tspan x="10" y="1642"> 61.  2017-04-18 00:58:48 +0000    16167 bytes  dist/extensions/multiple-sort/bootstrap-table-mu\</tspan>
+<tspan x="10" y="1658">ltiple-sort.js</tspan>
+<tspan x="10" y="1674"> 62.  2017-04-18 00:58:48 +0000     9295 bytes  dist/extensions/multiple-sort/bootstrap-table-mu\</tspan>
+<tspan x="10" y="1690">ltiple-sort.min.js</tspan>
+<tspan x="10" y="1706"> 63.  2017-04-18 00:58:48 +0000     1366 bytes  dist/extensions/natural-sorting/bootstrap-table-\</tspan>
+<tspan x="10" y="1722">natural-sorting.js</tspan>
+<tspan x="10" y="1738"> 64.  2017-04-18 00:58:48 +0000      662 bytes  dist/extensions/natural-sorting/bootstrap-table-\</tspan>
+<tspan x="10" y="1754">natural-sorting.min.js</tspan>
+<tspan x="10" y="1770"> 65.  2017-04-18 00:58:48 +0000     7128 bytes  dist/extensions/print/bootstrap-table-print.js</tspan>
+<tspan x="10" y="1786"> 66.  2017-04-18 00:58:48 +0000     2876 bytes  dist/extensions/print/bootstrap-table-print.min.\</tspan>
+<tspan x="10" y="1802">js</tspan>
+<tspan x="10" y="1818"> 67.  2017-04-18 00:58:48 +0000     6051 bytes  dist/extensions/reorder-columns/bootstrap-table-\</tspan>
+<tspan x="10" y="1834">reorder-columns.js</tspan>
+<tspan x="10" y="1850"> 68.  2017-04-18 00:58:48 +0000     2510 bytes  dist/extensions/reorder-columns/bootstrap-table-\</tspan>
+<tspan x="10" y="1866">reorder-columns.min.js</tspan>
+<tspan x="10" y="1882"> 69.  2017-04-18 00:58:48 +0000      819 bytes  dist/extensions/reorder-rows/bootstrap-table-reo\</tspan>
+<tspan x="10" y="1898">rder-rows.css</tspan>
+<tspan x="10" y="1914"> 70.  2017-04-18 00:58:48 +0000     3471 bytes  dist/extensions/reorder-rows/bootstrap-table-reo\</tspan>
+<tspan x="10" y="1930">rder-rows.js</tspan>
+<tspan x="10" y="1946"> 71.  2017-04-18 00:58:48 +0000     1865 bytes  dist/extensions/reorder-rows/bootstrap-table-reo\</tspan>
+<tspan x="10" y="1962">rder-rows.min.js</tspan>
+<tspan x="10" y="1978"> 72.  2017-04-18 00:58:48 +0000     2195 bytes  dist/extensions/resizable/bootstrap-table-resiza\</tspan>
+<tspan x="10" y="1994">ble.js</tspan>
+<tspan x="10" y="2010"> 73.  2017-04-18 00:58:48 +0000     1275 bytes  dist/extensions/resizable/bootstrap-table-resiza\</tspan>
+<tspan x="10" y="2026">ble.min.js</tspan>
+<tspan x="10" y="2042"> 74.  2017-04-18 00:58:48 +0000     8727 bytes  dist/extensions/select2-filter/bootstrap-table-s\</tspan>
+<tspan x="10" y="2058">elect2-filter.js</tspan>
+<tspan x="10" y="2074"> 75.  2017-04-18 00:58:48 +0000     4667 bytes  dist/extensions/select2-filter/bootstrap-table-s\</tspan>
+<tspan x="10" y="2090">elect2-filter.min.js</tspan>
+<tspan x="10" y="2106"> 76.  2017-04-18 00:58:48 +0000      416 bytes  dist/extensions/sticky-header/bootstrap-table-st\</tspan>
+<tspan x="10" y="2122">icky-header.css</tspan>
+<tspan x="10" y="2138"> 77.  2017-04-18 00:58:48 +0000     5293 bytes  dist/extensions/sticky-header/bootstrap-table-st\</tspan>
+<tspan x="10" y="2154">icky-header.js</tspan>
+<tspan x="10" y="2170"> 78.  2017-04-18 00:58:48 +0000     2229 bytes  dist/extensions/sticky-header/bootstrap-table-st\</tspan>
+<tspan x="10" y="2186">icky-header.min.js</tspan>
+<tspan x="10" y="2202"> 79.  2017-04-18 00:58:48 +0000     8246 bytes  dist/extensions/toolbar/bootstrap-table-toolbar.\</tspan>
+<tspan x="10" y="2218">js</tspan>
+<tspan x="10" y="2234"> 80.  2017-04-18 00:58:48 +0000     5000 bytes  dist/extensions/toolbar/bootstrap-table-toolbar.\</tspan>
+<tspan x="10" y="2250">min.js</tspan>
+<tspan x="10" y="2266"> 81.  2017-04-18 00:58:48 +0000      582 bytes  dist/extensions/tree-column/bootstrap-table-tree\</tspan>
+<tspan x="10" y="2282">-column.css</tspan>
+<tspan x="10" y="2298"> 82.  2017-04-18 00:58:48 +0000     4870 bytes  dist/extensions/tree-column/bootstrap-table-tree\</tspan>
+<tspan x="10" y="2314">-column.js</tspan>
+<tspan x="10" y="2330"> 83.  2017-04-18 00:58:48 +0000     2284 bytes  dist/extensions/tree-column/bootstrap-table-tree\</tspan>
+<tspan x="10" y="2346">-column.min.js</tspan>
+<tspan x="10" y="2362"> 84.  2017-04-18 00:58:48 +0000     1200 bytes  dist/locale/bootstrap-table-af-ZA.js</tspan>
+<tspan x="10" y="2378"> 85.  2017-04-18 00:58:48 +0000      818 bytes  dist/locale/bootstrap-table-af-ZA.min.js</tspan>
+<tspan x="10" y="2394"> 86.  2017-04-18 00:58:48 +0000     1280 bytes  dist/locale/bootstrap-table-ar-SA.js</tspan>
+<tspan x="10" y="2410"> 87.  2017-04-18 00:58:48 +0000      905 bytes  dist/locale/bootstrap-table-ar-SA.min.js</tspan>
+<tspan x="10" y="2426"> 88.  2017-04-18 00:58:48 +0000     1337 bytes  dist/locale/bootstrap-table-ca-ES.js</tspan>
+<tspan x="10" y="2442"> 89.  2017-04-18 00:58:48 +0000      873 bytes  dist/locale/bootstrap-table-ca-ES.min.js</tspan>
+<tspan x="10" y="2458"> 90.  2017-04-18 00:58:48 +0000     1342 bytes  dist/locale/bootstrap-table-cs-CZ.js</tspan>
+<tspan x="10" y="2474"> 91.  2017-04-18 00:58:48 +0000      891 bytes  dist/locale/bootstrap-table-cs-CZ.min.js</tspan>
+<tspan x="10" y="2490"> 92.  2017-04-18 00:58:48 +0000     1072 bytes  dist/locale/bootstrap-table-da-DK.js</tspan>
+<tspan x="10" y="2506"> 93.  2017-04-18 00:58:48 +0000      729 bytes  dist/locale/bootstrap-table-da-DK.min.js</tspan>
+<tspan x="10" y="2522"> 94.  2017-04-18 00:58:48 +0000     1215 bytes  dist/locale/bootstrap-table-de-DE.js</tspan>
+<tspan x="10" y="2538"> 95.  2017-04-18 00:58:48 +0000      898 bytes  dist/locale/bootstrap-table-de-DE.min.js</tspan>
+<tspan x="10" y="2554"> 96.  2017-04-18 00:58:48 +0000      980 bytes  dist/locale/bootstrap-table-el-GR.js</tspan>
+<tspan x="10" y="2570"> 97.  2017-04-18 00:58:48 +0000      774 bytes  dist/locale/bootstrap-table-el-GR.min.js</tspan>
+<tspan x="10" y="2586"> 98.  2017-04-18 00:58:48 +0000     1412 bytes  dist/locale/bootstrap-table-en-US.js</tspan>
+<tspan x="10" y="2602"> 99.  2017-04-18 00:58:48 +0000      930 bytes  dist/locale/bootstrap-table-en-US.min.js</tspan>
+<tspan x="10" y="2618">100.  2017-04-18 00:58:48 +0000      938 bytes  dist/locale/bootstrap-table-es-AR.js</tspan>
+<tspan x="10" y="2634">101.  2017-04-18 00:58:48 +0000      663 bytes  dist/locale/bootstrap-table-es-AR.min.js</tspan>
+<tspan x="10" y="2650">102.  2017-04-18 00:58:48 +0000     1166 bytes  dist/locale/bootstrap-table-es-CL.js</tspan>
+<tspan x="10" y="2666">103.  2017-04-18 00:58:48 +0000      858 bytes  dist/locale/bootstrap-table-es-CL.min.js</tspan>
+<tspan x="10" y="2682">104.  2017-04-18 00:58:48 +0000     1220 bytes  dist/locale/bootstrap-table-es-CR.js</tspan>
+<tspan x="10" y="2698">105.  2017-04-18 00:58:48 +0000      818 bytes  dist/locale/bootstrap-table-es-CR.min.js</tspan>
+<tspan x="10" y="2714">106.  2017-04-18 00:58:48 +0000     1300 bytes  dist/locale/bootstrap-table-es-ES.js</tspan>
+<tspan x="10" y="2730">107.  2017-04-18 00:58:48 +0000      886 bytes  dist/locale/bootstrap-table-es-ES.min.js</tspan>
+<tspan x="10" y="2746">108.  2017-04-18 00:58:48 +0000     1030 bytes  dist/locale/bootstrap-table-es-MX.js</tspan>
+<tspan x="10" y="2762">109.  2017-04-18 00:58:48 +0000      663 bytes  dist/locale/bootstrap-table-es-MX.min.js</tspan>
+<tspan x="10" y="2778">110.  2017-04-18 00:58:48 +0000     1219 bytes  dist/locale/bootstrap-table-es-NI.js</tspan>
+<tspan x="10" y="2794">111.  2017-04-18 00:58:48 +0000      818 bytes  dist/locale/bootstrap-table-es-NI.min.js</tspan>
+<tspan x="10" y="2810">112.  2017-04-18 00:58:48 +0000     1179 bytes  dist/locale/bootstrap-table-es-SP.js</tspan>
+<tspan x="10" y="2826">113.  2017-04-18 00:58:48 +0000      795 bytes  dist/locale/bootstrap-table-es-SP.min.js</tspan>
+<tspan x="10" y="2842">114.  2017-04-18 00:58:48 +0000     1292 bytes  dist/locale/bootstrap-table-et-EE.js</tspan>
+<tspan x="10" y="2858">115.  2017-04-18 00:58:48 +0000      898 bytes  dist/locale/bootstrap-table-et-EE.min.js</tspan>
+<tspan x="10" y="2874">116.  2017-04-18 00:58:48 +0000     1354 bytes  dist/locale/bootstrap-table-fa-IR.js</tspan>
+<tspan x="10" y="2890">117.  2017-04-18 00:58:48 +0000      950 bytes  dist/locale/bootstrap-table-fa-IR.min.js</tspan>
+<tspan x="10" y="2906">118.  2017-04-18 00:58:48 +0000      863 bytes  dist/locale/bootstrap-table-fr-BE.js</tspan>
+<tspan x="10" y="2922">119.  2017-04-18 00:58:48 +0000      616 bytes  dist/locale/bootstrap-table-fr-BE.min.js</tspan>
+<tspan x="10" y="2938">120.  2017-04-18 00:58:48 +0000     1286 bytes  dist/locale/bootstrap-table-fr-FR.js</tspan>
+<tspan x="10" y="2954">121.  2017-04-18 00:58:48 +0000      835 bytes  dist/locale/bootstrap-table-fr-FR.min.js</tspan>
+<tspan x="10" y="2970">122.  2017-04-18 00:58:48 +0000     1297 bytes  dist/locale/bootstrap-table-he-IL.js</tspan>
+<tspan x="10" y="2986">123.  2017-04-18 00:58:48 +0000      913 bytes  dist/locale/bootstrap-table-he-IL.min.js</tspan>
+<tspan x="10" y="3002">124.  2017-04-18 00:58:48 +0000     1354 bytes  dist/locale/bootstrap-table-hr-HR.js</tspan>
+<tspan x="10" y="3018">125.  2017-04-18 00:58:48 +0000      881 bytes  dist/locale/bootstrap-table-hr-HR.min.js</tspan>
+<tspan x="10" y="3034">126.  2017-04-18 00:58:48 +0000     1286 bytes  dist/locale/bootstrap-table-hu-HU.js</tspan>
+<tspan x="10" y="3050">127.  2017-04-18 00:58:48 +0000      875 bytes  dist/locale/bootstrap-table-hu-HU.min.js</tspan>
+<tspan x="10" y="3066">128.  2017-04-18 00:58:48 +0000     1454 bytes  dist/locale/bootstrap-table-id-ID.js</tspan>
+<tspan x="10" y="3082">129.  2017-04-18 00:58:48 +0000      970 bytes  dist/locale/bootstrap-table-id-ID.min.js</tspan>
+<tspan x="10" y="3098">130.  2017-04-18 00:58:48 +0000     1593 bytes  dist/locale/bootstrap-table-it-IT.js</tspan>
+<tspan x="10" y="3114">131.  2017-04-18 00:58:48 +0000      987 bytes  dist/locale/bootstrap-table-it-IT.min.js</tspan>
+<tspan x="10" y="3130">132.  2017-04-18 00:58:48 +0000     1363 bytes  dist/locale/bootstrap-table-ja-JP.js</tspan>
+<tspan x="10" y="3146">133.  2017-04-18 00:58:48 +0000      951 bytes  dist/locale/bootstrap-table-ja-JP.min.js</tspan>
+<tspan x="10" y="3162">134.  2017-04-18 00:58:48 +0000     1552 bytes  dist/locale/bootstrap-table-ka-GE.js</tspan>
+<tspan x="10" y="3178">135.  2017-04-18 00:58:48 +0000     1174 bytes  dist/locale/bootstrap-table-ka-GE.min.js</tspan>
+<tspan x="10" y="3194">136.  2017-04-18 00:58:48 +0000     1155 bytes  dist/locale/bootstrap-table-ko-KR.js</tspan>
+<tspan x="10" y="3210">137.  2017-04-18 00:58:48 +0000      815 bytes  dist/locale/bootstrap-table-ko-KR.min.js</tspan>
+<tspan x="10" y="3226">138.  2017-04-18 00:58:48 +0000     1330 bytes  dist/locale/bootstrap-table-ms-MY.js</tspan>
+<tspan x="10" y="3242">139.  2017-04-18 00:58:48 +0000      922 bytes  dist/locale/bootstrap-table-ms-MY.min.js</tspan>
+<tspan x="10" y="3258">140.  2017-04-18 00:58:48 +0000     1060 bytes  dist/locale/bootstrap-table-nb-NO.js</tspan>
+<tspan x="10" y="3274">141.  2017-04-18 00:58:48 +0000      731 bytes  dist/locale/bootstrap-table-nb-NO.min.js</tspan>
+<tspan x="10" y="3290">142.  2017-04-18 00:58:48 +0000     1591 bytes  dist/locale/bootstrap-table-nl-NL.js</tspan>
+<tspan x="10" y="3306">143.  2017-04-18 00:58:48 +0000     1040 bytes  dist/locale/bootstrap-table-nl-NL.min.js</tspan>
+<tspan x="10" y="3322">144.  2017-04-18 00:58:48 +0000     1096 bytes  dist/locale/bootstrap-table-pl-PL.js</tspan>
+<tspan x="10" y="3338">145.  2017-04-18 00:58:48 +0000      763 bytes  dist/locale/bootstrap-table-pl-PL.min.js</tspan>
+<tspan x="10" y="3354">146.  2017-04-18 00:58:48 +0000     1264 bytes  dist/locale/bootstrap-table-pt-BR.js</tspan>
+<tspan x="10" y="3370">147.  2017-04-18 00:58:48 +0000      821 bytes  dist/locale/bootstrap-table-pt-BR.min.js</tspan>
+<tspan x="10" y="3386">148.  2017-04-18 00:58:48 +0000     1311 bytes  dist/locale/bootstrap-table-pt-PT.js</tspan>
+<tspan x="10" y="3402">149.  2017-04-18 00:58:48 +0000      892 bytes  dist/locale/bootstrap-table-pt-PT.min.js</tspan>
+<tspan x="10" y="3418">150.  2017-04-18 00:58:48 +0000     1281 bytes  dist/locale/bootstrap-table-ro-RO.js</tspan>
+<tspan x="10" y="3434">151.  2017-04-18 00:58:48 +0000      875 bytes  dist/locale/bootstrap-table-ro-RO.min.js</tspan>
+<tspan x="10" y="3450">152.  2017-04-18 00:58:48 +0000     2478 bytes  dist/locale/bootstrap-table-ru-RU.js</tspan>
+<tspan x="10" y="3466">153.  2017-04-18 00:58:48 +0000     1709 bytes  dist/locale/bootstrap-table-ru-RU.min.js</tspan>
+<tspan x="10" y="3482">154.  2017-04-18 00:58:48 +0000     1103 bytes  dist/locale/bootstrap-table-sk-SK.js</tspan>
+<tspan x="10" y="3498">155.  2017-04-18 00:58:48 +0000      772 bytes  dist/locale/bootstrap-table-sk-SK.min.js</tspan>
+<tspan x="10" y="3514">156.  2017-04-18 00:58:48 +0000     1065 bytes  dist/locale/bootstrap-table-sv-SE.js</tspan>
+<tspan x="10" y="3530">157.  2017-04-18 00:58:48 +0000      739 bytes  dist/locale/bootstrap-table-sv-SE.min.js</tspan>
+<tspan x="10" y="3546">158.  2017-04-18 00:58:48 +0000     1316 bytes  dist/locale/bootstrap-table-th-TH.js</tspan>
+<tspan x="10" y="3562">159.  2017-04-18 00:58:48 +0000      986 bytes  dist/locale/bootstrap-table-th-TH.min.js</tspan>
+<tspan x="10" y="3578">160.  2017-04-18 00:58:48 +0000     1208 bytes  dist/locale/bootstrap-table-tr-TR.js</tspan>
+<tspan x="10" y="3594">161.  2017-04-18 00:58:48 +0000      816 bytes  dist/locale/bootstrap-table-tr-TR.min.js</tspan>
+<tspan x="10" y="3610">162.  2017-04-18 00:58:48 +0000     2522 bytes  dist/locale/bootstrap-table-uk-UA.js</tspan>
+<tspan x="10" y="3626">163.  2017-04-18 00:58:48 +0000     1735 bytes  dist/locale/bootstrap-table-uk-UA.min.js</tspan>
+<tspan x="10" y="3642">164.  2017-04-18 00:58:48 +0000     1151 bytes  dist/locale/bootstrap-table-ur-PK.js</tspan>
+<tspan x="10" y="3658">165.  2017-04-18 00:58:48 +0000      824 bytes  dist/locale/bootstrap-table-ur-PK.min.js</tspan>
+<tspan x="10" y="3674">166.  2017-04-18 00:58:48 +0000     1477 bytes  dist/locale/bootstrap-table-uz-Latn-UZ.js</tspan>
+<tspan x="10" y="3690">167.  2017-04-18 00:58:48 +0000      989 bytes  dist/locale/bootstrap-table-uz-Latn-UZ.min.js</tspan>
+<tspan x="10" y="3706">168.  2017-04-18 00:58:48 +0000      863 bytes  dist/locale/bootstrap-table-vi-VN.js</tspan>
+<tspan x="10" y="3722">169.  2017-04-18 00:58:48 +0000      636 bytes  dist/locale/bootstrap-table-vi-VN.min.js</tspan>
+<tspan x="10" y="3738">170.  2017-04-18 00:58:48 +0000     1400 bytes  dist/locale/bootstrap-table-zh-CN.js</tspan>
+<tspan x="10" y="3754">171.  2017-04-18 00:58:48 +0000      951 bytes  dist/locale/bootstrap-table-zh-CN.min.js</tspan>
+<tspan x="10" y="3770">172.  2017-04-18 00:58:48 +0000     1233 bytes  dist/locale/bootstrap-table-zh-TW.js</tspan>
+<tspan x="10" y="3786">173.  2017-04-18 00:58:48 +0000      856 bytes  dist/locale/bootstrap-table-zh-TW.min.js</tspan>
+<tspan x="10" y="3802">174.  2017-04-18 00:58:48 +0000    19465 bytes  docs/LICENSE</tspan>
+<tspan x="10" y="3818">175.  2017-04-18 00:58:48 +0000      838 bytes  docs/README.md</tspan>
+<tspan x="10" y="3834">176.  2017-04-18 00:58:48 +0000     1217 bytes  docs/_i18n/en.yml</tspan>
+<tspan x="10" y="3850">177.  2017-04-18 00:58:48 +0000     8006 bytes  docs/_i18n/en/documentation/column-options.md</tspan>
+<tspan x="10" y="3866">178.  2017-04-18 00:58:48 +0000     7295 bytes  docs/_i18n/en/documentation/events.md</tspan>
+<tspan x="10" y="3882">179.  2017-04-18 00:58:48 +0000     2208 bytes  docs/_i18n/en/documentation/localizations.md</tspan>
+<tspan x="10" y="3898">180.  2017-04-18 00:58:48 +0000    10523 bytes  docs/_i18n/en/documentation/methods.md</tspan>
+<tspan x="10" y="3914">181.  2017-04-18 00:58:48 +0000    21076 bytes  docs/_i18n/en/documentation/table-options.md</tspan>
+<tspan x="10" y="3930">182.  2017-04-18 00:58:48 +0000      244 bytes  docs/_i18n/en/donate.md</tspan>
+<tspan x="10" y="3946">183.  2017-04-18 00:58:48 +0000     1314 bytes  docs/_i18n/en/faq/faq.md</tspan>
+<tspan x="10" y="3962">184.  2017-04-18 00:58:48 +0000     1442 bytes  docs/_i18n/en/footer.html</tspan>
+<tspan x="10" y="3978">185.  2017-04-18 00:58:48 +0000     1590 bytes  docs/_i18n/en/getting-started/download.md</tspan>
+<tspan x="10" y="3994">186.  2017-04-18 00:58:48 +0000     1916 bytes  docs/_i18n/en/getting-started/grunt.md</tspan>
+<tspan x="10" y="4010">187.  2017-04-18 00:58:48 +0000     2647 bytes  docs/_i18n/en/getting-started/usage.md</tspan>
+<tspan x="10" y="4026">188.  2017-04-18 00:58:48 +0000     1002 bytes  docs/_i18n/en/getting-started/whats-include.md</tspan>
+<tspan x="10" y="4042">189.  2017-04-18 00:58:48 +0000      395 bytes  docs/_i18n/en/home/feature.md</tspan>
+<tspan x="10" y="4058">190.  2017-04-18 00:58:48 +0000     1226 bytes  docs/_i18n/es.yml</tspan>
+<tspan x="10" y="4074">191.  2017-04-18 00:58:48 +0000     7511 bytes  docs/_i18n/es/documentation/column-options.md</tspan>
+<tspan x="10" y="4090">192.  2017-04-18 00:58:48 +0000     7309 bytes  docs/_i18n/es/documentation/events.md</tspan>
+<tspan x="10" y="4106">193.  2017-04-18 00:58:48 +0000     1534 bytes  docs/_i18n/es/documentation/localizations.md</tspan>
+<tspan x="10" y="4122">194.  2017-04-18 00:58:48 +0000     9913 bytes  docs/_i18n/es/documentation/methods.md</tspan>
+<tspan x="10" y="4138">195.  2017-04-18 00:58:48 +0000    17193 bytes  docs/_i18n/es/documentation/table-options.md</tspan>
+<tspan x="10" y="4154">196.  2017-04-18 00:58:48 +0000      244 bytes  docs/_i18n/es/donate.md</tspan>
+<tspan x="10" y="4170">197.  2017-04-18 00:58:48 +0000     1469 bytes  docs/_i18n/es/faq/faq.md</tspan>
+<tspan x="10" y="4186">198.  2017-04-18 00:58:48 +0000     1441 bytes  docs/_i18n/es/footer.html</tspan>
+<tspan x="10" y="4202">199.  2017-04-18 00:58:48 +0000     1516 bytes  docs/_i18n/es/getting-started/download.md</tspan>
+<tspan x="10" y="4218">200.  2017-04-18 00:58:48 +0000     1963 bytes  docs/_i18n/es/getting-started/grunt.md</tspan>
+<tspan x="10" y="4234">201.  2017-04-18 00:58:48 +0000     2692 bytes  docs/_i18n/es/getting-started/usage.md</tspan>
+<tspan x="10" y="4250">202.  2017-04-18 00:58:48 +0000      937 bytes  docs/_i18n/es/getting-started/whats-include.md</tspan>
+<tspan x="10" y="4266">203.  2017-04-18 00:58:48 +0000      395 bytes  docs/_i18n/es/home/feature.md</tspan>
+<tspan x="10" y="4282">204.  2017-04-18 00:58:48 +0000     1240 bytes  docs/_i18n/zh-cn.yml</tspan>
+<tspan x="10" y="4298">205.  2017-04-18 00:58:48 +0000     7300 bytes  docs/_i18n/zh-cn/documentation/column-options.md</tspan>
+<tspan x="10" y="4314">206.  2017-04-18 00:58:48 +0000     6657 bytes  docs/_i18n/zh-cn/documentation/events.md</tspan>
+<tspan x="10" y="4330">207.  2017-04-18 00:58:48 +0000     1984 bytes  docs/_i18n/zh-cn/documentation/localizations.md</tspan>
+<tspan x="10" y="4346">208.  2017-04-18 00:58:48 +0000     9489 bytes  docs/_i18n/zh-cn/documentation/methods.md</tspan>
+<tspan x="10" y="4362">209.  2017-04-18 00:58:48 +0000    17537 bytes  docs/_i18n/zh-cn/documentation/table-options.md</tspan>
+<tspan x="10" y="4378">210.  2017-04-18 00:58:48 +0000      253 bytes  docs/_i18n/zh-cn/donate.md</tspan>
+<tspan x="10" y="4394">211.  2017-04-18 00:58:48 +0000     1203 bytes  docs/_i18n/zh-cn/faq/faq.md</tspan>
+<tspan x="10" y="4410">212.  2017-04-18 00:58:48 +0000     1452 bytes  docs/_i18n/zh-cn/footer.html</tspan>
+<tspan x="10" y="4426">213.  2017-04-18 00:58:48 +0000     1508 bytes  docs/_i18n/zh-cn/getting-started/download.md</tspan>
+<tspan x="10" y="4442">214.  2017-04-18 00:58:48 +0000     1569 bytes  docs/_i18n/zh-cn/getting-started/grunt.md</tspan>
+<tspan x="10" y="4458">215.  2017-04-18 00:58:48 +0000     2612 bytes  docs/_i18n/zh-cn/getting-started/usage.md</tspan>
+<tspan x="10" y="4474">216.  2017-04-18 00:58:48 +0000      939 bytes  docs/_i18n/zh-cn/getting-started/whats-include.m\</tspan>
+<tspan x="10" y="4490">d</tspan>
+<tspan x="10" y="4506">217.  2017-04-18 00:58:48 +0000      365 bytes  docs/_i18n/zh-cn/home/feature.md</tspan>
+<tspan x="10" y="4522">218.  2017-04-18 00:58:48 +0000      816 bytes  docs/_includes/footer.html</tspan>
+<tspan x="10" y="4538">219.  2017-04-18 00:58:48 +0000     2732 bytes  docs/_includes/header.html</tspan>
+<tspan x="10" y="4554">220.  2017-04-18 00:58:48 +0000     1977 bytes  docs/_includes/latest-release.md</tspan>
+<tspan x="10" y="4570">221.  2017-04-18 00:58:48 +0000     3308 bytes  docs/_includes/nav.html</tspan>
+<tspan x="10" y="4586">222.  2017-04-18 00:58:48 +0000     1832 bytes  docs/_includes/social-buttons.html</tspan>
+<tspan x="10" y="4602">223.  2017-04-18 00:58:48 +0000     1185 bytes  docs/_layouts/default.html</tspan>
+<tspan x="10" y="4618">224.  2017-04-18 00:58:48 +0000      402 bytes  docs/_layouts/home.html</tspan>
+<tspan x="10" y="4634">225.  2017-04-18 00:58:48 +0000      681 bytes  docs/_plugins/markdown-tag.rb</tspan>
+<tspan x="10" y="4650">226.  2017-04-18 00:58:48 +0000     4693 bytes  docs/_plugins/multiple-languages.rb</tspan>
+<tspan x="10" y="4666">227.  2017-04-18 00:58:48 +0000     6140 bytes  docs/apple-touch-icon.png</tspan>
+<tspan x="10" y="4682">228.  2017-04-18 00:58:48 +0000    21740 bytes  docs/assets/bootstrap/css/bootstrap-theme.css</tspan>
+<tspan x="10" y="4698">229.  2017-04-18 00:58:48 +0000    41933 bytes  docs/assets/bootstrap/css/bootstrap-theme.css.ma\</tspan>
+<tspan x="10" y="4714">p</tspan>
+<tspan x="10" y="4730">230.  2017-04-18 00:58:48 +0000    19199 bytes  docs/assets/bootstrap/css/bootstrap-theme.min.cs\</tspan>
+<tspan x="10" y="4746">s</tspan>
+<tspan x="10" y="4762">231.  2017-04-18 00:58:48 +0000   137666 bytes  docs/assets/bootstrap/css/bootstrap.css</tspan>
+<tspan x="10" y="4778">232.  2017-04-18 00:58:48 +0000   367187 bytes  docs/assets/bootstrap/css/bootstrap.css.map</tspan>
+<tspan x="10" y="4794">233.  2017-04-18 00:58:48 +0000   114075 bytes  docs/assets/bootstrap/css/bootstrap.min.css</tspan>
+<tspan x="10" y="4810">234.  2017-04-18 00:58:48 +0000    20335 bytes  docs/assets/bootstrap/fonts/glyphicons-halflings\</tspan>
+<tspan x="10" y="4826">-regular.eot</tspan>
+<tspan x="10" y="4842">235.  2017-04-18 00:58:48 +0000    62926 bytes  docs/assets/bootstrap/fonts/glyphicons-halflings\</tspan>
+<tspan x="10" y="4858">-regular.svg</tspan>
+<tspan x="10" y="4874">236.  2017-04-18 00:58:48 +0000    41280 bytes  docs/assets/bootstrap/fonts/glyphicons-halflings\</tspan>
+<tspan x="10" y="4890">-regular.ttf</tspan>
+<tspan x="10" y="4906">237.  2017-04-18 00:58:48 +0000    23320 bytes  docs/assets/bootstrap/fonts/glyphicons-halflings\</tspan>
+<tspan x="10" y="4922">-regular.woff</tspan>
+<tspan x="10" y="4938">238.  2017-04-18 00:58:48 +0000    67111 bytes  docs/assets/bootstrap/js/bootstrap.js</tspan>
+<tspan x="10" y="4954">239.  2017-04-18 00:58:48 +0000    35558 bytes  docs/assets/bootstrap/js/bootstrap.min.js</tspan>
+<tspan x="10" y="4970">240.  2017-04-18 00:58:48 +0000      484 bytes  docs/assets/bootstrap/js/npm.js</tspan>
+<tspan x="10" y="4986">241.  2017-04-18 00:58:48 +0000    21416 bytes  docs/assets/css/docs.min.css</tspan>
+<tspan x="10" y="5002">242.  2017-04-18 00:58:48 +0000     2526 bytes  docs/assets/css/sidenav.css</tspan>
+<tspan x="10" y="5018">243.  2017-04-18 00:58:48 +0000     1346 bytes  docs/assets/css/style.css</tspan>
+<tspan x="10" y="5034">244.  2017-04-18 00:58:48 +0000     2157 bytes  docs/assets/flash/ZeroClipboard.swf</tspan>
+<tspan x="10" y="5050">245.  2017-04-18 00:58:48 +0000    98016 bytes  docs/assets/images/alipay.jpg</tspan>
+<tspan x="10" y="5066">246.  2017-04-18 00:58:48 +0000    22926 bytes  docs/assets/images/alipayLogo.png</tspan>
+<tspan x="10" y="5082">247.  2017-04-18 00:58:48 +0000     4545 bytes  docs/assets/images/paypalLogo.png</tspan>
+<tspan x="10" y="5098">248.  2017-04-18 00:58:48 +0000    87203 bytes  docs/assets/images/weixin.png</tspan>
+<tspan x="10" y="5114">249.  2017-04-18 00:58:48 +0000     4973 bytes  docs/assets/images/weixinLogo.png</tspan>
+<tspan x="10" y="5130">250.  2017-04-18 00:58:48 +0000     2726 bytes  docs/assets/js/common.js</tspan>
+<tspan x="10" y="5146">251.  2017-04-18 00:58:48 +0000  1435607 bytes  docs/assets/js/customize.min.js</tspan>
+<tspan x="10" y="5162">252.  2017-04-18 00:58:48 +0000    43299 bytes  docs/assets/js/docs.min.js</tspan>
+<tspan x="10" y="5178">253.  2017-04-18 00:58:48 +0000     2132 bytes  docs/assets/js/ie-emulation-modes-warning.js</tspan>
+<tspan x="10" y="5194">254.  2017-04-18 00:58:48 +0000      694 bytes  docs/assets/js/ie10-viewport-bug-workaround.js</tspan>
+<tspan x="10" y="5210">255.  2017-04-18 00:58:48 +0000      598 bytes  docs/assets/js/ie8-responsive-file-warning.js</tspan>
+<tspan x="10" y="5226">256.  2017-04-18 00:58:48 +0000    96380 bytes  docs/assets/js/jquery.min.js</tspan>
+<tspan x="10" y="5242">257.  2017-04-18 00:58:48 +0000     4486 bytes  docs/assets/js/sidenav.js</tspan>
+<tspan x="10" y="5258">258.  2017-04-18 00:58:48 +0000      126 bytes  docs/data/README.md</tspan>
+<tspan x="10" y="5274">259.  2017-04-18 00:58:48 +0000      982 bytes  docs/data/data1/demo.response.json</tspan>
+<tspan x="10" y="5290">260.  2017-04-18 00:58:48 +0000    66872 bytes  docs/data/data2/demo.response.json</tspan>
+<tspan x="10" y="5306">261.  2017-04-18 00:58:48 +0000     3941 bytes  docs/data/data3/demo.response.json</tspan>
+<tspan x="10" y="5322">262.  2017-04-18 00:58:48 +0000     1277 bytes  docs/data/data4/demo.response.json</tspan>
+<tspan x="10" y="5338">263.  2017-04-18 00:58:48 +0000      444 bytes  docs/data/data5/demo.response.json</tspan>
+<tspan x="10" y="5354">264.  2017-04-18 00:58:48 +0000    14599 bytes  docs/data/extensions.json</tspan>
+<tspan x="10" y="5370">265.  2017-04-18 00:58:48 +0000    58529 bytes  docs/dist/bootstrap-table-locale-all.js</tspan>
+<tspan x="10" y="5386">266.  2017-04-18 00:58:48 +0000    33641 bytes  docs/dist/bootstrap-table-locale-all.min.js</tspan>
+<tspan x="10" y="5402">267.  2017-04-18 00:58:48 +0000     7149 bytes  docs/dist/bootstrap-table.css</tspan>
+<tspan x="10" y="5418">268.  2017-04-18 00:58:48 +0000   109621 bytes  docs/dist/bootstrap-table.js</tspan>
+<tspan x="10" y="5434">269.  2017-04-18 00:58:48 +0000     5713 bytes  docs/dist/bootstrap-table.min.css</tspan>
+<tspan x="10" y="5450">270.  2017-04-18 00:58:48 +0000    54644 bytes  docs/dist/bootstrap-table.min.js</tspan>
+<tspan x="10" y="5466">271.  2017-04-18 00:58:48 +0000    11731 bytes  docs/dist/extensions/accent-neutralise/bootstrap\</tspan>
+<tspan x="10" y="5482">-table-accent-neutralise.js</tspan>
+<tspan x="10" y="5498">272.  2017-04-18 00:58:48 +0000     5660 bytes  docs/dist/extensions/accent-neutralise/bootstrap\</tspan>
+<tspan x="10" y="5514">-table-accent-neutralise.min.js</tspan>
+<tspan x="10" y="5530">273.  2017-04-18 00:58:48 +0000     4067 bytes  docs/dist/extensions/angular/bootstrap-table-ang\</tspan>
+<tspan x="10" y="5546">ular.js</tspan>
+<tspan x="10" y="5562">274.  2017-04-18 00:58:48 +0000     2122 bytes  docs/dist/extensions/angular/bootstrap-table-ang\</tspan>
+<tspan x="10" y="5578">ular.min.js</tspan>
+<tspan x="10" y="5594">275.  2017-04-18 00:58:48 +0000       46 bytes  docs/dist/extensions/auto-refresh/bootstrap-tabl\</tspan>
+<tspan x="10" y="5610">e-auto-refresh.css</tspan>
+<tspan x="10" y="5626">276.  2017-04-18 00:58:48 +0000     2742 bytes  docs/dist/extensions/auto-refresh/bootstrap-tabl\</tspan>
+<tspan x="10" y="5642">e-auto-refresh.js</tspan>
+<tspan x="10" y="5658">277.  2017-04-18 00:58:48 +0000     2058 bytes  docs/dist/extensions/auto-refresh/bootstrap-tabl\</tspan>
+<tspan x="10" y="5674">e-auto-refresh.min.js</tspan>
+<tspan x="10" y="5690">278.  2017-04-18 00:58:48 +0000      287 bytes  docs/dist/extensions/click-edit-row/bootstrap-ta\</tspan>
+<tspan x="10" y="5706">ble-click-edit-row.css</tspan>
+<tspan x="10" y="5722">279.  2017-04-18 00:58:48 +0000     5516 bytes  docs/dist/extensions/click-edit-row/bootstrap-ta\</tspan>
+<tspan x="10" y="5738">ble-click-edit-row.js</tspan>
+<tspan x="10" y="5754">280.  2017-04-18 00:58:48 +0000     2845 bytes  docs/dist/extensions/click-edit-row/bootstrap-ta\</tspan>
+<tspan x="10" y="5770">ble-click-edit-row.min.js</tspan>
+<tspan x="10" y="5786">281.  2017-04-18 00:58:48 +0000    16449 bytes  docs/dist/extensions/cookie/bootstrap-table-cook\</tspan>
+<tspan x="10" y="5802">ie.js</tspan>
+<tspan x="10" y="5818">282.  2017-04-18 00:58:48 +0000     7476 bytes  docs/dist/extensions/cookie/bootstrap-table-cook\</tspan>
+<tspan x="10" y="5834">ie.min.js</tspan>
+<tspan x="10" y="5850">283.  2017-04-18 00:58:48 +0000     3568 bytes  docs/dist/extensions/copy-rows/bootstrap-table-c\</tspan>
+<tspan x="10" y="5866">opy-rows.js</tspan>
+<tspan x="10" y="5882">284.  2017-04-18 00:58:48 +0000     2083 bytes  docs/dist/extensions/copy-rows/bootstrap-table-c\</tspan>
+<tspan x="10" y="5898">opy-rows.min.js</tspan>
+<tspan x="10" y="5914">285.  2017-04-18 00:58:48 +0000     5410 bytes  docs/dist/extensions/editable/bootstrap-table-ed\</tspan>
+<tspan x="10" y="5930">itable.js</tspan>
+<tspan x="10" y="5946">286.  2017-04-18 00:58:48 +0000     2521 bytes  docs/dist/extensions/editable/bootstrap-table-ed\</tspan>
+<tspan x="10" y="5962">itable.min.js</tspan>
+<tspan x="10" y="5978">287.  2017-04-18 00:58:48 +0000     5213 bytes  docs/dist/extensions/export/bootstrap-table-expo\</tspan>
+<tspan x="10" y="5994">rt.js</tspan>
+<tspan x="10" y="6010">288.  2017-04-18 00:58:48 +0000     2580 bytes  docs/dist/extensions/export/bootstrap-table-expo\</tspan>
+<tspan x="10" y="6026">rt.min.js</tspan>
+<tspan x="10" y="6042">289.  2017-04-18 00:58:48 +0000      190 bytes  docs/dist/extensions/filter-control/bootstrap-ta\</tspan>
+<tspan x="10" y="6058">ble-filter-control.css</tspan>
+<tspan x="10" y="6074">290.  2017-04-18 00:58:48 +0000    27002 bytes  docs/dist/extensions/filter-control/bootstrap-ta\</tspan>
+<tspan x="10" y="6090">ble-filter-control.js</tspan>
+<tspan x="10" y="6106">291.  2017-04-18 00:58:48 +0000    11159 bytes  docs/dist/extensions/filter-control/bootstrap-ta\</tspan>
+<tspan x="10" y="6122">ble-filter-control.min.js</tspan>
+<tspan x="10" y="6138">292.  2017-04-18 00:58:48 +0000     1980 bytes  docs/dist/extensions/filter/bootstrap-table-filt\</tspan>
+<tspan x="10" y="6154">er.js</tspan>
+<tspan x="10" y="6170">293.  2017-04-18 00:58:48 +0000     1310 bytes  docs/dist/extensions/filter/bootstrap-table-filt\</tspan>
+<tspan x="10" y="6186">er.min.js</tspan>
+<tspan x="10" y="6202">294.  2017-04-18 00:58:48 +0000     1739 bytes  docs/dist/extensions/flat-json/bootstrap-table-f\</tspan>
+<tspan x="10" y="6218">lat-json.js</tspan>
+<tspan x="10" y="6234">295.  2017-04-18 00:58:48 +0000      799 bytes  docs/dist/extensions/flat-json/bootstrap-table-f\</tspan>
+<tspan x="10" y="6250">lat-json.min.js</tspan>
+<tspan x="10" y="6266">296.  2017-04-18 00:58:48 +0000      129 bytes  docs/dist/extensions/group-by-v2/bootstrap-table\</tspan>
+<tspan x="10" y="6282">-group-by.css</tspan>
+<tspan x="10" y="6298">297.  2017-04-18 00:58:48 +0000     6938 bytes  docs/dist/extensions/group-by-v2/bootstrap-table\</tspan>
+<tspan x="10" y="6314">-group-by.js</tspan>
+<tspan x="10" y="6330">298.  2017-04-18 00:58:48 +0000     3467 bytes  docs/dist/extensions/group-by-v2/bootstrap-table\</tspan>
+<tspan x="10" y="6346">-group-by.min.js</tspan>
+<tspan x="10" y="6362">299.  2017-04-18 00:58:48 +0000    24204 bytes  docs/dist/extensions/group-by/bootstrap-table-gr\</tspan>
+<tspan x="10" y="6378">oup-by.css</tspan>
+<tspan x="10" y="6394">300.  2017-04-18 00:58:48 +0000     7927 bytes  docs/dist/extensions/group-by/bootstrap-table-gr\</tspan>
+<tspan x="10" y="6410">oup-by.js</tspan>
+<tspan x="10" y="6426">301.  2017-04-18 00:58:48 +0000     3420 bytes  docs/dist/extensions/group-by/bootstrap-table-gr\</tspan>
+<tspan x="10" y="6442">oup-by.min.js</tspan>
+<tspan x="10" y="6458">302.  2017-04-18 00:58:48 +0000      759 bytes  docs/dist/extensions/i18n-enhance/bootstrap-tabl\</tspan>
+<tspan x="10" y="6474">e-i18n-enhance.js</tspan>
+<tspan x="10" y="6490">303.  2017-04-18 00:58:48 +0000      608 bytes  docs/dist/extensions/i18n-enhance/bootstrap-tabl\</tspan>
+<tspan x="10" y="6506">e-i18n-enhance.min.js</tspan>
+<tspan x="10" y="6522">304.  2017-04-18 00:58:48 +0000     2717 bytes  docs/dist/extensions/key-events/bootstrap-table-\</tspan>
+<tspan x="10" y="6538">key-events.js</tspan>
+<tspan x="10" y="6554">305.  2017-04-18 00:58:48 +0000     1203 bytes  docs/dist/extensions/key-events/bootstrap-table-\</tspan>
+<tspan x="10" y="6570">key-events.min.js</tspan>
+<tspan x="10" y="6586">306.  2017-04-18 00:58:48 +0000     4140 bytes  docs/dist/extensions/mobile/bootstrap-table-mobi\</tspan>
+<tspan x="10" y="6602">le.js</tspan>
+<tspan x="10" y="6618">307.  2017-04-18 00:58:48 +0000     1854 bytes  docs/dist/extensions/mobile/bootstrap-table-mobi\</tspan>
+<tspan x="10" y="6634">le.min.js</tspan>
+<tspan x="10" y="6650">308.  2017-04-18 00:58:48 +0000     3114 bytes  docs/dist/extensions/multi-column-toggle/bootstr\</tspan>
+<tspan x="10" y="6666">ap-table-multi-toggle.js</tspan>
+<tspan x="10" y="6682">309.  2017-04-18 00:58:48 +0000     1980 bytes  docs/dist/extensions/multi-column-toggle/bootstr\</tspan>
+<tspan x="10" y="6698">ap-table-multi-toggle.min.js</tspan>
+<tspan x="10" y="6714">310.  2017-04-18 00:58:48 +0000     2905 bytes  docs/dist/extensions/multiple-search/bootstrap-t\</tspan>
+<tspan x="10" y="6730">able-multiple-search.js</tspan>
+<tspan x="10" y="6746">311.  2017-04-18 00:58:48 +0000     1315 bytes  docs/dist/extensions/multiple-search/bootstrap-t\</tspan>
+<tspan x="10" y="6762">able-multiple-search.min.js</tspan>
+<tspan x="10" y="6778">312.  2017-04-18 00:58:48 +0000      306 bytes  docs/dist/extensions/multiple-selection-row/boot\</tspan>
+<tspan x="10" y="6794">strap-table-multiple-selection-row.css</tspan>
+<tspan x="10" y="6810">313.  2017-04-18 00:58:48 +0000     4659 bytes  docs/dist/extensions/multiple-selection-row/boot\</tspan>
+<tspan x="10" y="6826">strap-table-multiple-selection-row.js</tspan>
+<tspan x="10" y="6842">314.  2017-04-18 00:58:48 +0000     2610 bytes  docs/dist/extensions/multiple-selection-row/boot\</tspan>
+<tspan x="10" y="6858">strap-table-multiple-selection-row.min.js</tspan>
+<tspan x="10" y="6874">315.  2017-04-18 00:58:48 +0000    16167 bytes  docs/dist/extensions/multiple-sort/bootstrap-tab\</tspan>
+<tspan x="10" y="6890">le-multiple-sort.js</tspan>
+<tspan x="10" y="6906">316.  2017-04-18 00:58:48 +0000     9295 bytes  docs/dist/extensions/multiple-sort/bootstrap-tab\</tspan>
+<tspan x="10" y="6922">le-multiple-sort.min.js</tspan>
+<tspan x="10" y="6938">317.  2017-04-18 00:58:48 +0000     1366 bytes  docs/dist/extensions/natural-sorting/bootstrap-t\</tspan>
+<tspan x="10" y="6954">able-natural-sorting.js</tspan>
+<tspan x="10" y="6970">318.  2017-04-18 00:58:48 +0000      662 bytes  docs/dist/extensions/natural-sorting/bootstrap-t\</tspan>
+<tspan x="10" y="6986">able-natural-sorting.min.js</tspan>
+<tspan x="10" y="7002">319.  2017-04-18 00:58:48 +0000     7128 bytes  docs/dist/extensions/print/bootstrap-table-print\</tspan>
+<tspan x="10" y="7018">.js</tspan>
+<tspan x="10" y="7034">320.  2017-04-18 00:58:48 +0000     2876 bytes  docs/dist/extensions/print/bootstrap-table-print\</tspan>
+<tspan x="10" y="7050">.min.js</tspan>
+<tspan x="10" y="7066">321.  2017-04-18 00:58:48 +0000     6051 bytes  docs/dist/extensions/reorder-columns/bootstrap-t\</tspan>
+<tspan x="10" y="7082">able-reorder-columns.js</tspan>
+<tspan x="10" y="7098">322.  2017-04-18 00:58:48 +0000     2510 bytes  docs/dist/extensions/reorder-columns/bootstrap-t\</tspan>
+<tspan x="10" y="7114">able-reorder-columns.min.js</tspan>
+<tspan x="10" y="7130">323.  2017-04-18 00:58:48 +0000      819 bytes  docs/dist/extensions/reorder-rows/bootstrap-tabl\</tspan>
+<tspan x="10" y="7146">e-reorder-rows.css</tspan>
+<tspan x="10" y="7162">324.  2017-04-18 00:58:48 +0000     3471 bytes  docs/dist/extensions/reorder-rows/bootstrap-tabl\</tspan>
+<tspan x="10" y="7178">e-reorder-rows.js</tspan>
+<tspan x="10" y="7194">325.  2017-04-18 00:58:48 +0000     1865 bytes  docs/dist/extensions/reorder-rows/bootstrap-tabl\</tspan>
+<tspan x="10" y="7210">e-reorder-rows.min.js</tspan>
+<tspan x="10" y="7226">326.  2017-04-18 00:58:48 +0000     2195 bytes  docs/dist/extensions/resizable/bootstrap-table-r\</tspan>
+<tspan x="10" y="7242">esizable.js</tspan>
+<tspan x="10" y="7258">327.  2017-04-18 00:58:48 +0000     1275 bytes  docs/dist/extensions/resizable/bootstrap-table-r\</tspan>
+<tspan x="10" y="7274">esizable.min.js</tspan>
+<tspan x="10" y="7290">328.  2017-04-18 00:58:48 +0000     8727 bytes  docs/dist/extensions/select2-filter/bootstrap-ta\</tspan>
+<tspan x="10" y="7306">ble-select2-filter.js</tspan>
+<tspan x="10" y="7322">329.  2017-04-18 00:58:48 +0000     4667 bytes  docs/dist/extensions/select2-filter/bootstrap-ta\</tspan>
+<tspan x="10" y="7338">ble-select2-filter.min.js</tspan>
+<tspan x="10" y="7354">330.  2017-04-18 00:58:48 +0000      416 bytes  docs/dist/extensions/sticky-header/bootstrap-tab\</tspan>
+<tspan x="10" y="7370">le-sticky-header.css</tspan>
+<tspan x="10" y="7386">331.  2017-04-18 00:58:48 +0000     5293 bytes  docs/dist/extensions/sticky-header/bootstrap-tab\</tspan>
+<tspan x="10" y="7402">le-sticky-header.js</tspan>
+<tspan x="10" y="7418">332.  2017-04-18 00:58:48 +0000     2229 bytes  docs/dist/extensions/sticky-header/bootstrap-tab\</tspan>
+<tspan x="10" y="7434">le-sticky-header.min.js</tspan>
+<tspan x="10" y="7450">333.  2017-04-18 00:58:48 +0000     8246 bytes  docs/dist/extensions/toolbar/bootstrap-table-too\</tspan>
+<tspan x="10" y="7466">lbar.js</tspan>
+<tspan x="10" y="7482">334.  2017-04-18 00:58:48 +0000     5000 bytes  docs/dist/extensions/toolbar/bootstrap-table-too\</tspan>
+<tspan x="10" y="7498">lbar.min.js</tspan>
+<tspan x="10" y="7514">335.  2017-04-18 00:58:48 +0000      582 bytes  docs/dist/extensions/tree-column/bootstrap-table\</tspan>
+<tspan x="10" y="7530">-tree-column.css</tspan>
+<tspan x="10" y="7546">336.  2017-04-18 00:58:48 +0000     4870 bytes  docs/dist/extensions/tree-column/bootstrap-table\</tspan>
+<tspan x="10" y="7562">-tree-column.js</tspan>
+<tspan x="10" y="7578">337.  2017-04-18 00:58:48 +0000     2284 bytes  docs/dist/extensions/tree-column/bootstrap-table\</tspan>
+<tspan x="10" y="7594">-tree-column.min.js</tspan>
+<tspan x="10" y="7610">338.  2017-04-18 00:58:48 +0000     1200 bytes  docs/dist/locale/bootstrap-table-af-ZA.js</tspan>
+<tspan x="10" y="7626">339.  2017-04-18 00:58:48 +0000      818 bytes  docs/dist/locale/bootstrap-table-af-ZA.min.js</tspan>
+<tspan x="10" y="7642">340.  2017-04-18 00:58:48 +0000     1280 bytes  docs/dist/locale/bootstrap-table-ar-SA.js</tspan>
+<tspan x="10" y="7658">341.  2017-04-18 00:58:48 +0000      905 bytes  docs/dist/locale/bootstrap-table-ar-SA.min.js</tspan>
+<tspan x="10" y="7674">342.  2017-04-18 00:58:48 +0000     1337 bytes  docs/dist/locale/bootstrap-table-ca-ES.js</tspan>
+<tspan x="10" y="7690">343.  2017-04-18 00:58:48 +0000      873 bytes  docs/dist/locale/bootstrap-table-ca-ES.min.js</tspan>
+<tspan x="10" y="7706">344.  2017-04-18 00:58:48 +0000     1342 bytes  docs/dist/locale/bootstrap-table-cs-CZ.js</tspan>
+<tspan x="10" y="7722">345.  2017-04-18 00:58:48 +0000      891 bytes  docs/dist/locale/bootstrap-table-cs-CZ.min.js</tspan>
+<tspan x="10" y="7738">346.  2017-04-18 00:58:48 +0000     1072 bytes  docs/dist/locale/bootstrap-table-da-DK.js</tspan>
+<tspan x="10" y="7754">347.  2017-04-18 00:58:48 +0000      729 bytes  docs/dist/locale/bootstrap-table-da-DK.min.js</tspan>
+<tspan x="10" y="7770">348.  2017-04-18 00:58:48 +0000     1215 bytes  docs/dist/locale/bootstrap-table-de-DE.js</tspan>
+<tspan x="10" y="7786">349.  2017-04-18 00:58:48 +0000      898 bytes  docs/dist/locale/bootstrap-table-de-DE.min.js</tspan>
+<tspan x="10" y="7802">350.  2017-04-18 00:58:48 +0000      980 bytes  docs/dist/locale/bootstrap-table-el-GR.js</tspan>
+<tspan x="10" y="7818">351.  2017-04-18 00:58:48 +0000      774 bytes  docs/dist/locale/bootstrap-table-el-GR.min.js</tspan>
+<tspan x="10" y="7834">352.  2017-04-18 00:58:48 +0000     1412 bytes  docs/dist/locale/bootstrap-table-en-US.js</tspan>
+<tspan x="10" y="7850">353.  2017-04-18 00:58:48 +0000      930 bytes  docs/dist/locale/bootstrap-table-en-US.min.js</tspan>
+<tspan x="10" y="7866">354.  2017-04-18 00:58:48 +0000      938 bytes  docs/dist/locale/bootstrap-table-es-AR.js</tspan>
+<tspan x="10" y="7882">355.  2017-04-18 00:58:48 +0000      663 bytes  docs/dist/locale/bootstrap-table-es-AR.min.js</tspan>
+<tspan x="10" y="7898">356.  2017-04-18 00:58:48 +0000     1166 bytes  docs/dist/locale/bootstrap-table-es-CL.js</tspan>
+<tspan x="10" y="7914">357.  2017-04-18 00:58:48 +0000      858 bytes  docs/dist/locale/bootstrap-table-es-CL.min.js</tspan>
+<tspan x="10" y="7930">358.  2017-04-18 00:58:48 +0000     1220 bytes  docs/dist/locale/bootstrap-table-es-CR.js</tspan>
+<tspan x="10" y="7946">359.  2017-04-18 00:58:48 +0000      818 bytes  docs/dist/locale/bootstrap-table-es-CR.min.js</tspan>
+<tspan x="10" y="7962">360.  2017-04-18 00:58:48 +0000     1300 bytes  docs/dist/locale/bootstrap-table-es-ES.js</tspan>
+<tspan x="10" y="7978">361.  2017-04-18 00:58:48 +0000      886 bytes  docs/dist/locale/bootstrap-table-es-ES.min.js</tspan>
+<tspan x="10" y="7994">362.  2017-04-18 00:58:48 +0000     1030 bytes  docs/dist/locale/bootstrap-table-es-MX.js</tspan>
+<tspan x="10" y="8010">363.  2017-04-18 00:58:48 +0000      663 bytes  docs/dist/locale/bootstrap-table-es-MX.min.js</tspan>
+<tspan x="10" y="8026">364.  2017-04-18 00:58:48 +0000     1219 bytes  docs/dist/locale/bootstrap-table-es-NI.js</tspan>
+<tspan x="10" y="8042">365.  2017-04-18 00:58:48 +0000      818 bytes  docs/dist/locale/bootstrap-table-es-NI.min.js</tspan>
+<tspan x="10" y="8058">366.  2017-04-18 00:58:48 +0000     1179 bytes  docs/dist/locale/bootstrap-table-es-SP.js</tspan>
+<tspan x="10" y="8074">367.  2017-04-18 00:58:48 +0000      795 bytes  docs/dist/locale/bootstrap-table-es-SP.min.js</tspan>
+<tspan x="10" y="8090">368.  2017-04-18 00:58:48 +0000     1292 bytes  docs/dist/locale/bootstrap-table-et-EE.js</tspan>
+<tspan x="10" y="8106">369.  2017-04-18 00:58:48 +0000      898 bytes  docs/dist/locale/bootstrap-table-et-EE.min.js</tspan>
+<tspan x="10" y="8122">370.  2017-04-18 00:58:48 +0000     1354 bytes  docs/dist/locale/bootstrap-table-fa-IR.js</tspan>
+<tspan x="10" y="8138">371.  2017-04-18 00:58:48 +0000      950 bytes  docs/dist/locale/bootstrap-table-fa-IR.min.js</tspan>
+<tspan x="10" y="8154">372.  2017-04-18 00:58:48 +0000      863 bytes  docs/dist/locale/bootstrap-table-fr-BE.js</tspan>
+<tspan x="10" y="8170">373.  2017-04-18 00:58:48 +0000      616 bytes  docs/dist/locale/bootstrap-table-fr-BE.min.js</tspan>
+<tspan x="10" y="8186">374.  2017-04-18 00:58:48 +0000     1286 bytes  docs/dist/locale/bootstrap-table-fr-FR.js</tspan>
+<tspan x="10" y="8202">375.  2017-04-18 00:58:48 +0000      835 bytes  docs/dist/locale/bootstrap-table-fr-FR.min.js</tspan>
+<tspan x="10" y="8218">376.  2017-04-18 00:58:48 +0000     1297 bytes  docs/dist/locale/bootstrap-table-he-IL.js</tspan>
+<tspan x="10" y="8234">377.  2017-04-18 00:58:48 +0000      913 bytes  docs/dist/locale/bootstrap-table-he-IL.min.js</tspan>
+<tspan x="10" y="8250">378.  2017-04-18 00:58:48 +0000     1354 bytes  docs/dist/locale/bootstrap-table-hr-HR.js</tspan>
+<tspan x="10" y="8266">379.  2017-04-18 00:58:48 +0000      881 bytes  docs/dist/locale/bootstrap-table-hr-HR.min.js</tspan>
+<tspan x="10" y="8282">380.  2017-04-18 00:58:48 +0000     1286 bytes  docs/dist/locale/bootstrap-table-hu-HU.js</tspan>
+<tspan x="10" y="8298">381.  2017-04-18 00:58:48 +0000      875 bytes  docs/dist/locale/bootstrap-table-hu-HU.min.js</tspan>
+<tspan x="10" y="8314">382.  2017-04-18 00:58:48 +0000     1454 bytes  docs/dist/locale/bootstrap-table-id-ID.js</tspan>
+<tspan x="10" y="8330">383.  2017-04-18 00:58:48 +0000      970 bytes  docs/dist/locale/bootstrap-table-id-ID.min.js</tspan>
+<tspan x="10" y="8346">384.  2017-04-18 00:58:48 +0000     1593 bytes  docs/dist/locale/bootstrap-table-it-IT.js</tspan>
+<tspan x="10" y="8362">385.  2017-04-18 00:58:48 +0000      987 bytes  docs/dist/locale/bootstrap-table-it-IT.min.js</tspan>
+<tspan x="10" y="8378">386.  2017-04-18 00:58:48 +0000     1363 bytes  docs/dist/locale/bootstrap-table-ja-JP.js</tspan>
+<tspan x="10" y="8394">387.  2017-04-18 00:58:48 +0000      951 bytes  docs/dist/locale/bootstrap-table-ja-JP.min.js</tspan>
+<tspan x="10" y="8410">388.  2017-04-18 00:58:48 +0000     1552 bytes  docs/dist/locale/bootstrap-table-ka-GE.js</tspan>
+<tspan x="10" y="8426">389.  2017-04-18 00:58:48 +0000     1174 bytes  docs/dist/locale/bootstrap-table-ka-GE.min.js</tspan>
+<tspan x="10" y="8442">390.  2017-04-18 00:58:48 +0000     1155 bytes  docs/dist/locale/bootstrap-table-ko-KR.js</tspan>
+<tspan x="10" y="8458">391.  2017-04-18 00:58:48 +0000      815 bytes  docs/dist/locale/bootstrap-table-ko-KR.min.js</tspan>
+<tspan x="10" y="8474">392.  2017-04-18 00:58:48 +0000     1330 bytes  docs/dist/locale/bootstrap-table-ms-MY.js</tspan>
+<tspan x="10" y="8490">393.  2017-04-18 00:58:48 +0000      922 bytes  docs/dist/locale/bootstrap-table-ms-MY.min.js</tspan>
+<tspan x="10" y="8506">394.  2017-04-18 00:58:48 +0000     1060 bytes  docs/dist/locale/bootstrap-table-nb-NO.js</tspan>
+<tspan x="10" y="8522">395.  2017-04-18 00:58:48 +0000      731 bytes  docs/dist/locale/bootstrap-table-nb-NO.min.js</tspan>
+<tspan x="10" y="8538">396.  2017-04-18 00:58:48 +0000     1591 bytes  docs/dist/locale/bootstrap-table-nl-NL.js</tspan>
+<tspan x="10" y="8554">397.  2017-04-18 00:58:48 +0000     1040 bytes  docs/dist/locale/bootstrap-table-nl-NL.min.js</tspan>
+<tspan x="10" y="8570">398.  2017-04-18 00:58:48 +0000     1096 bytes  docs/dist/locale/bootstrap-table-pl-PL.js</tspan>
+<tspan x="10" y="8586">399.  2017-04-18 00:58:48 +0000      763 bytes  docs/dist/locale/bootstrap-table-pl-PL.min.js</tspan>
+<tspan x="10" y="8602">400.  2017-04-18 00:58:48 +0000     1264 bytes  docs/dist/locale/bootstrap-table-pt-BR.js</tspan>
+<tspan x="10" y="8618">401.  2017-04-18 00:58:48 +0000      821 bytes  docs/dist/locale/bootstrap-table-pt-BR.min.js</tspan>
+<tspan x="10" y="8634">402.  2017-04-18 00:58:48 +0000     1311 bytes  docs/dist/locale/bootstrap-table-pt-PT.js</tspan>
+<tspan x="10" y="8650">403.  2017-04-18 00:58:48 +0000      892 bytes  docs/dist/locale/bootstrap-table-pt-PT.min.js</tspan>
+<tspan x="10" y="8666">404.  2017-04-18 00:58:48 +0000     1281 bytes  docs/dist/locale/bootstrap-table-ro-RO.js</tspan>
+<tspan x="10" y="8682">405.  2017-04-18 00:58:48 +0000      875 bytes  docs/dist/locale/bootstrap-table-ro-RO.min.js</tspan>
+<tspan x="10" y="8698">406.  2017-04-18 00:58:48 +0000     2478 bytes  docs/dist/locale/bootstrap-table-ru-RU.js</tspan>
+<tspan x="10" y="8714">407.  2017-04-18 00:58:48 +0000     1709 bytes  docs/dist/locale/bootstrap-table-ru-RU.min.js</tspan>
+<tspan x="10" y="8730">408.  2017-04-18 00:58:48 +0000     1103 bytes  docs/dist/locale/bootstrap-table-sk-SK.js</tspan>
+<tspan x="10" y="8746">409.  2017-04-18 00:58:48 +0000      772 bytes  docs/dist/locale/bootstrap-table-sk-SK.min.js</tspan>
+<tspan x="10" y="8762">410.  2017-04-18 00:58:48 +0000     1065 bytes  docs/dist/locale/bootstrap-table-sv-SE.js</tspan>
+<tspan x="10" y="8778">411.  2017-04-18 00:58:48 +0000      739 bytes  docs/dist/locale/bootstrap-table-sv-SE.min.js</tspan>
+<tspan x="10" y="8794">412.  2017-04-18 00:58:48 +0000     1316 bytes  docs/dist/locale/bootstrap-table-th-TH.js</tspan>
+<tspan x="10" y="8810">413.  2017-04-18 00:58:48 +0000      986 bytes  docs/dist/locale/bootstrap-table-th-TH.min.js</tspan>
+<tspan x="10" y="8826">414.  2017-04-18 00:58:48 +0000     1208 bytes  docs/dist/locale/bootstrap-table-tr-TR.js</tspan>
+<tspan x="10" y="8842">415.  2017-04-18 00:58:48 +0000      816 bytes  docs/dist/locale/bootstrap-table-tr-TR.min.js</tspan>
+<tspan x="10" y="8858">416.  2017-04-18 00:58:48 +0000     2522 bytes  docs/dist/locale/bootstrap-table-uk-UA.js</tspan>
+<tspan x="10" y="8874">417.  2017-04-18 00:58:48 +0000     1735 bytes  docs/dist/locale/bootstrap-table-uk-UA.min.js</tspan>
+<tspan x="10" y="8890">418.  2017-04-18 00:58:48 +0000     1151 bytes  docs/dist/locale/bootstrap-table-ur-PK.js</tspan>
+<tspan x="10" y="8906">419.  2017-04-18 00:58:48 +0000      824 bytes  docs/dist/locale/bootstrap-table-ur-PK.min.js</tspan>
+<tspan x="10" y="8922">420.  2017-04-18 00:58:48 +0000     1477 bytes  docs/dist/locale/bootstrap-table-uz-Latn-UZ.js</tspan>
+<tspan x="10" y="8938">421.  2017-04-18 00:58:48 +0000      989 bytes  docs/dist/locale/bootstrap-table-uz-Latn-UZ.min.\</tspan>
+<tspan x="10" y="8954">js</tspan>
+<tspan x="10" y="8970">422.  2017-04-18 00:58:48 +0000      863 bytes  docs/dist/locale/bootstrap-table-vi-VN.js</tspan>
+<tspan x="10" y="8986">423.  2017-04-18 00:58:48 +0000      636 bytes  docs/dist/locale/bootstrap-table-vi-VN.min.js</tspan>
+<tspan x="10" y="9002">424.  2017-04-18 00:58:48 +0000     1400 bytes  docs/dist/locale/bootstrap-table-zh-CN.js</tspan>
+<tspan x="10" y="9018">425.  2017-04-18 00:58:48 +0000      951 bytes  docs/dist/locale/bootstrap-table-zh-CN.min.js</tspan>
+<tspan x="10" y="9034">426.  2017-04-18 00:58:48 +0000     1233 bytes  docs/dist/locale/bootstrap-table-zh-TW.js</tspan>
+<tspan x="10" y="9050">427.  2017-04-18 00:58:48 +0000      856 bytes  docs/dist/locale/bootstrap-table-zh-TW.min.js</tspan>
+<tspan x="10" y="9066">428.  2017-04-18 00:58:48 +0000      300 bytes  docs/documentation.md</tspan>
+<tspan x="10" y="9082">429.  2017-04-18 00:58:48 +0000     3273 bytes  docs/donate.md</tspan>
+<tspan x="10" y="9098">430.  2017-04-18 00:58:48 +0000      130 bytes  docs/examples.md</tspan>
+<tspan x="10" y="9114">431.  2017-04-18 00:58:48 +0000     2570 bytes  docs/extensions.md</tspan>
+<tspan x="10" y="9130">432.  2017-04-18 00:58:48 +0000       99 bytes  docs/faq.md</tspan>
+<tspan x="10" y="9146">433.  2017-04-18 00:58:48 +0000     5430 bytes  docs/favicon.ico</tspan>
+<tspan x="10" y="9162">434.  2017-04-18 00:58:48 +0000      264 bytes  docs/getting-started.md</tspan>
+<tspan x="10" y="9178">435.  2017-04-18 00:58:48 +0000     1102 bytes  docs/index.md</tspan>
+<tspan x="10" y="9194">436.  2017-04-18 00:58:48 +0000      122 bytes  docs/robots.txt</tspan>
+<tspan x="10" y="9210">437.  2017-04-18 00:58:48 +0000      796 bytes  docs/sitemap.xml</tspan>
+<tspan x="10" y="9226">438.  2017-04-18 00:58:48 +0000     2993 bytes  package.json</tspan>
+<tspan x="10" y="9242">439.  2017-04-18 00:58:48 +0000     7149 bytes  src/bootstrap-table.css</tspan>
+<tspan x="10" y="9258">440.  2017-04-18 00:58:48 +0000   109621 bytes  src/bootstrap-table.js</tspan>
+<tspan x="10" y="9274">441.  2017-04-18 00:58:48 +0000      426 bytes  src/extensions/accent-neutralise/README.md</tspan>
+<tspan x="10" y="9290">442.  2017-04-18 00:58:48 +0000    11731 bytes  src/extensions/accent-neutralise/bootstrap-table\</tspan>
+<tspan x="10" y="9306">-accent-neutralise.js</tspan>
+<tspan x="10" y="9322">443.  2017-04-18 00:58:48 +0000      509 bytes  src/extensions/accent-neutralise/extension.json</tspan>
+<tspan x="10" y="9338">444.  2017-04-18 00:58:48 +0000     4067 bytes  src/extensions/angular/bootstrap-table-angular.j\</tspan>
+<tspan x="10" y="9354">s</tspan>
+<tspan x="10" y="9370">445.  2017-04-18 00:58:48 +0000     1223 bytes  src/extensions/auto-refresh/README.md</tspan>
+<tspan x="10" y="9386">446.  2017-04-18 00:58:48 +0000       46 bytes  src/extensions/auto-refresh/bootstrap-table-auto\</tspan>
+<tspan x="10" y="9402">-refresh.css</tspan>
+<tspan x="10" y="9418">447.  2017-04-18 00:58:48 +0000     2742 bytes  src/extensions/auto-refresh/bootstrap-table-auto\</tspan>
+<tspan x="10" y="9434">-refresh.js</tspan>
+<tspan x="10" y="9450">448.  2017-04-18 00:58:48 +0000      518 bytes  src/extensions/auto-refresh/extension.json</tspan>
+<tspan x="10" y="9466">449.  2017-04-18 00:58:48 +0000     1214 bytes  src/extensions/click-edit-row/README.md</tspan>
+<tspan x="10" y="9482">450.  2017-04-18 00:58:48 +0000      287 bytes  src/extensions/click-edit-row/bootstrap-table-cl\</tspan>
+<tspan x="10" y="9498">ick-edit-row.css</tspan>
+<tspan x="10" y="9514">451.  2017-04-18 00:58:48 +0000     5516 bytes  src/extensions/click-edit-row/bootstrap-table-cl\</tspan>
+<tspan x="10" y="9530">ick-edit-row.js</tspan>
+<tspan x="10" y="9546">452.  2017-04-18 00:58:48 +0000     2404 bytes  src/extensions/cookie/README.md</tspan>
+<tspan x="10" y="9562">453.  2017-04-18 00:58:48 +0000    16449 bytes  src/extensions/cookie/bootstrap-table-cookie.js</tspan>
+<tspan x="10" y="9578">454.  2017-04-18 00:58:48 +0000      543 bytes  src/extensions/cookie/extension.json</tspan>
+<tspan x="10" y="9594">455.  2017-04-18 00:58:48 +0000     1105 bytes  src/extensions/copy-rows/README.md</tspan>
+<tspan x="10" y="9610">456.  2017-04-18 00:58:48 +0000     3568 bytes  src/extensions/copy-rows/bootstrap-table-copy-ro\</tspan>
+<tspan x="10" y="9626">ws.js</tspan>
+<tspan x="10" y="9642">457.  2017-04-18 00:58:48 +0000      566 bytes  src/extensions/copy-rows/extension.json</tspan>
+<tspan x="10" y="9658">458.  2017-04-18 00:58:48 +0000     1784 bytes  src/extensions/editable/README.md</tspan>
+<tspan x="10" y="9674">459.  2017-04-18 00:58:48 +0000     5410 bytes  src/extensions/editable/bootstrap-table-editable\</tspan>
+<tspan x="10" y="9690">.js</tspan>
+<tspan x="10" y="9706">460.  2017-04-18 00:58:48 +0000      515 bytes  src/extensions/editable/extension.json</tspan>
+<tspan x="10" y="9722">461.  2017-04-18 00:58:48 +0000      871 bytes  src/extensions/export/README.md</tspan>
+<tspan x="10" y="9738">462.  2017-04-18 00:58:48 +0000     5213 bytes  src/extensions/export/bootstrap-table-export.js</tspan>
+<tspan x="10" y="9754">463.  2017-04-18 00:58:48 +0000      560 bytes  src/extensions/export/extension.json</tspan>
+<tspan x="10" y="9770">464.  2017-04-18 00:58:48 +0000     2601 bytes  src/extensions/filter-control/README.md</tspan>
+<tspan x="10" y="9786">465.  2017-04-18 00:58:48 +0000      190 bytes  src/extensions/filter-control/bootstrap-table-fi\</tspan>
+<tspan x="10" y="9802">lter-control.css</tspan>
+<tspan x="10" y="9818">466.  2017-04-18 00:58:48 +0000    27002 bytes  src/extensions/filter-control/bootstrap-table-fi\</tspan>
+<tspan x="10" y="9834">lter-control.js</tspan>
+<tspan x="10" y="9850">467.  2017-04-18 00:58:48 +0000      632 bytes  src/extensions/filter-control/extension.json</tspan>
+<tspan x="10" y="9866">468.  2017-04-18 00:58:48 +0000      307 bytes  src/extensions/filter/README.md</tspan>
+<tspan x="10" y="9882">469.  2017-04-18 00:58:48 +0000     1980 bytes  src/extensions/filter/bootstrap-table-filter.js</tspan>
+<tspan x="10" y="9898">470.  2017-04-18 00:58:48 +0000      477 bytes  src/extensions/filter/extension.json</tspan>
+<tspan x="10" y="9914">471.  2017-04-18 00:58:48 +0000      430 bytes  src/extensions/flat-json/README.md</tspan>
+<tspan x="10" y="9930">472.  2017-04-18 00:58:48 +0000     1739 bytes  src/extensions/flat-json/bootstrap-table-flat-js\</tspan>
+<tspan x="10" y="9946">on.js</tspan>
+<tspan x="10" y="9962">473.  2017-04-18 00:58:48 +0000      520 bytes  src/extensions/flat-json/extension.json</tspan>
+<tspan x="10" y="9978">474.  2017-04-18 00:58:48 +0000      584 bytes  src/extensions/group-by-v2/README.md</tspan>
+<tspan x="10" y="9994">475.  2017-04-18 00:58:48 +0000      129 bytes  src/extensions/group-by-v2/bootstrap-table-group\</tspan>
+<tspan x="10" y="10010">-by.css</tspan>
+<tspan x="10" y="10026">476.  2017-04-18 00:58:48 +0000     6938 bytes  src/extensions/group-by-v2/bootstrap-table-group\</tspan>
+<tspan x="10" y="10042">-by.js</tspan>
+<tspan x="10" y="10058">477.  2017-04-18 00:58:48 +0000      331 bytes  src/extensions/group-by-v2/extension.json</tspan>
+<tspan x="10" y="10074">478.  2017-04-18 00:58:48 +0000     1388 bytes  src/extensions/group-by/README.md</tspan>
+<tspan x="10" y="10090">479.  2017-04-18 00:58:48 +0000    24204 bytes  src/extensions/group-by/bootstrap-table-group-by\</tspan>
+<tspan x="10" y="10106">.css</tspan>
+<tspan x="10" y="10122">480.  2017-04-18 00:58:48 +0000     7927 bytes  src/extensions/group-by/bootstrap-table-group-by\</tspan>
+<tspan x="10" y="10138">.js</tspan>
+<tspan x="10" y="10154">481.  2017-04-18 00:58:48 +0000      477 bytes  src/extensions/group-by/extension.json</tspan>
+<tspan x="10" y="10170">482.  2017-04-18 00:58:48 +0000      725 bytes  src/extensions/i18n-enhance/README.md</tspan>
+<tspan x="10" y="10186">483.  2017-04-18 00:58:48 +0000      759 bytes  src/extensions/i18n-enhance/bootstrap-table-i18n\</tspan>
+<tspan x="10" y="10202">-enhance.js</tspan>
+<tspan x="10" y="10218">484.  2017-04-18 00:58:48 +0000      606 bytes  src/extensions/i18n-enhance/extension.json</tspan>
+<tspan x="10" y="10234">485.  2017-04-18 00:58:48 +0000      802 bytes  src/extensions/key-events/README.md</tspan>
+<tspan x="10" y="10250">486.  2017-04-18 00:58:48 +0000     2717 bytes  src/extensions/key-events/bootstrap-table-key-ev\</tspan>
+<tspan x="10" y="10266">ents.js</tspan>
+<tspan x="10" y="10282">487.  2017-04-18 00:58:48 +0000      579 bytes  src/extensions/key-events/extension.json</tspan>
+<tspan x="10" y="10298">488.  2017-04-18 00:58:48 +0000     1101 bytes  src/extensions/mobile/README.md</tspan>
+<tspan x="10" y="10314">489.  2017-04-18 00:58:48 +0000     4140 bytes  src/extensions/mobile/bootstrap-table-mobile.js</tspan>
+<tspan x="10" y="10330">490.  2017-04-18 00:58:48 +0000      544 bytes  src/extensions/mobile/extension.json</tspan>
+<tspan x="10" y="10346">491.  2017-04-18 00:58:48 +0000     1011 bytes  src/extensions/multi-column-toggle/README.md</tspan>
+<tspan x="10" y="10362">492.  2017-04-18 00:58:48 +0000     3114 bytes  src/extensions/multi-column-toggle/bootstrap-tab\</tspan>
+<tspan x="10" y="10378">le-multi-toggle.js</tspan>
+<tspan x="10" y="10394">493.  2017-04-18 00:58:48 +0000      614 bytes  src/extensions/multi-column-toggle/extension.jso\</tspan>
+<tspan x="10" y="10410">n</tspan>
+<tspan x="10" y="10426">494.  2017-04-18 00:58:48 +0000      676 bytes  src/extensions/multiple-search/README.md</tspan>
+<tspan x="10" y="10442">495.  2017-04-18 00:58:48 +0000     2905 bytes  src/extensions/multiple-search/bootstrap-table-m\</tspan>
+<tspan x="10" y="10458">ultiple-search.js</tspan>
+<tspan x="10" y="10474">496.  2017-04-18 00:58:48 +0000      508 bytes  src/extensions/multiple-search/extension.json</tspan>
+<tspan x="10" y="10490">497.  2017-04-18 00:58:48 +0000      933 bytes  src/extensions/multiple-selection-row/README.md</tspan>
+<tspan x="10" y="10506">498.  2017-04-18 00:58:48 +0000      306 bytes  src/extensions/multiple-selection-row/bootstrap-\</tspan>
+<tspan x="10" y="10522">table-multiple-selection-row.css</tspan>
+<tspan x="10" y="10538">499.  2017-04-18 00:58:48 +0000     4659 bytes  src/extensions/multiple-selection-row/bootstrap-\</tspan>
+<tspan x="10" y="10554">table-multiple-selection-row.js</tspan>
+<tspan x="10" y="10570">500.  2017-04-18 00:58:48 +0000      637 bytes  src/extensions/multiple-selection-row/extension.\</tspan>
+<tspan x="10" y="10586">json</tspan>
+<tspan x="10" y="10602">501.  2017-04-18 00:58:48 +0000     1957 bytes  src/extensions/multiple-sort/README.md</tspan>
+<tspan x="10" y="10618">502.  2017-04-18 00:58:48 +0000    16167 bytes  src/extensions/multiple-sort/bootstrap-table-mul\</tspan>
+<tspan x="10" y="10634">tiple-sort.js</tspan>
+<tspan x="10" y="10650">503.  2017-04-18 00:58:48 +0000      499 bytes  src/extensions/multiple-sort/extension.json</tspan>
+<tspan x="10" y="10666">504.  2017-04-18 00:58:48 +0000      901 bytes  src/extensions/natural-sorting/README.md</tspan>
+<tspan x="10" y="10682">505.  2017-04-18 00:58:48 +0000     1366 bytes  src/extensions/natural-sorting/bootstrap-table-n\</tspan>
+<tspan x="10" y="10698">atural-sorting.js</tspan>
+<tspan x="10" y="10714">506.  2017-04-18 00:58:48 +0000      510 bytes  src/extensions/natural-sorting/extension.json</tspan>
+<tspan x="10" y="10730">507.  2017-04-18 00:58:48 +0000     1894 bytes  src/extensions/print/README.md</tspan>
+<tspan x="10" y="10746">508.  2017-04-18 00:58:48 +0000     7128 bytes  src/extensions/print/bootstrap-table-print.js</tspan>
+<tspan x="10" y="10762">509.  2017-04-18 00:58:48 +0000     1104 bytes  src/extensions/reorder-columns/README.md</tspan>
+<tspan x="10" y="10778">510.  2017-04-18 00:58:48 +0000     6051 bytes  src/extensions/reorder-columns/bootstrap-table-r\</tspan>
+<tspan x="10" y="10794">eorder-columns.js</tspan>
+<tspan x="10" y="10810">511.  2017-04-18 00:58:48 +0000      597 bytes  src/extensions/reorder-columns/extension.json</tspan>
+<tspan x="10" y="10826">512.  2017-04-18 00:58:48 +0000     2573 bytes  src/extensions/reorder-rows/README.md</tspan>
+<tspan x="10" y="10842">513.  2017-04-18 00:58:48 +0000      819 bytes  src/extensions/reorder-rows/bootstrap-table-reor\</tspan>
+<tspan x="10" y="10858">der-rows.css</tspan>
+<tspan x="10" y="10874">514.  2017-04-18 00:58:48 +0000     3471 bytes  src/extensions/reorder-rows/bootstrap-table-reor\</tspan>
+<tspan x="10" y="10890">der-rows.js</tspan>
+<tspan x="10" y="10906">515.  2017-04-18 00:58:48 +0000      579 bytes  src/extensions/reorder-rows/extension.json</tspan>
+<tspan x="10" y="10922">516.  2017-04-18 00:58:48 +0000     2569 bytes  src/extensions/resizable/README.md</tspan>
+<tspan x="10" y="10938">517.  2017-04-18 00:58:48 +0000     2195 bytes  src/extensions/resizable/bootstrap-table-resizab\</tspan>
+<tspan x="10" y="10954">le.js</tspan>
+<tspan x="10" y="10970">518.  2017-04-18 00:58:48 +0000      558 bytes  src/extensions/resizable/extension.json</tspan>
+<tspan x="10" y="10986">519.  2017-04-18 00:58:48 +0000     1302 bytes  src/extensions/select2-filter/README.md</tspan>
+<tspan x="10" y="11002">520.  2017-04-18 00:58:48 +0000     8727 bytes  src/extensions/select2-filter/bootstrap-table-se\</tspan>
+<tspan x="10" y="11018">lect2-filter.js</tspan>
+<tspan x="10" y="11034">521.  2017-04-18 00:58:48 +0000      625 bytes  src/extensions/select2-filter/extension.json</tspan>
+<tspan x="10" y="11050">522.  2017-04-18 00:58:48 +0000      735 bytes  src/extensions/sticky-header/README.md</tspan>
+<tspan x="10" y="11066">523.  2017-04-18 00:58:48 +0000      416 bytes  src/extensions/sticky-header/bootstrap-table-sti\</tspan>
+<tspan x="10" y="11082">cky-header.css</tspan>
+<tspan x="10" y="11098">524.  2017-04-18 00:58:48 +0000     5293 bytes  src/extensions/sticky-header/bootstrap-table-sti\</tspan>
+<tspan x="10" y="11114">cky-header.js</tspan>
+<tspan x="10" y="11130">525.  2017-04-18 00:58:48 +0000      730 bytes  src/extensions/sticky-header/extension.json</tspan>
+<tspan x="10" y="11146">526.  2017-04-18 00:58:48 +0000     1012 bytes  src/extensions/toolbar/README.md</tspan>
+<tspan x="10" y="11162">527.  2017-04-18 00:58:48 +0000     8246 bytes  src/extensions/toolbar/bootstrap-table-toolbar.j\</tspan>
+<tspan x="10" y="11178">s</tspan>
+<tspan x="10" y="11194">528.  2017-04-18 00:58:48 +0000      546 bytes  src/extensions/toolbar/extension.json</tspan>
+<tspan x="10" y="11210">529.  2017-04-18 00:58:48 +0000      582 bytes  src/extensions/tree-column/bootstrap-table-tree-\</tspan>
+<tspan x="10" y="11226">column.css</tspan>
+<tspan x="10" y="11242">530.  2017-04-18 00:58:48 +0000     4870 bytes  src/extensions/tree-column/bootstrap-table-tree-\</tspan>
+<tspan x="10" y="11258">column.js</tspan>
+<tspan x="10" y="11274">531.  2017-04-18 00:58:48 +0000      864 bytes  src/extensions/tree-column/bootstrap-table-tree-\</tspan>
+<tspan x="10" y="11290">column.less</tspan>
+<tspan x="10" y="11306">532.  2017-04-18 00:58:48 +0000      574 bytes  src/extensions/tree-column/extension.json</tspan>
+<tspan x="10" y="11322">533.  2017-04-18 00:58:48 +0000      346 bytes  src/extensions/tree-column/icon.png</tspan>
+<tspan x="10" y="11338">534.  2017-04-18 00:58:48 +0000     1317 bytes  src/locale/README.md</tspan>
+<tspan x="10" y="11354">535.  2017-04-18 00:58:48 +0000     1200 bytes  src/locale/bootstrap-table-af-ZA.js</tspan>
+<tspan x="10" y="11370">536.  2017-04-18 00:58:48 +0000     1280 bytes  src/locale/bootstrap-table-ar-SA.js</tspan>
+<tspan x="10" y="11386">537.  2017-04-18 00:58:48 +0000     1337 bytes  src/locale/bootstrap-table-ca-ES.js</tspan>
+<tspan x="10" y="11402">538.  2017-04-18 00:58:48 +0000     1342 bytes  src/locale/bootstrap-table-cs-CZ.js</tspan>
+<tspan x="10" y="11418">539.  2017-04-18 00:58:48 +0000     1072 bytes  src/locale/bootstrap-table-da-DK.js</tspan>
+<tspan x="10" y="11434">540.  2017-04-18 00:58:48 +0000     1215 bytes  src/locale/bootstrap-table-de-DE.js</tspan>
+<tspan x="10" y="11450">541.  2017-04-18 00:58:48 +0000      980 bytes  src/locale/bootstrap-table-el-GR.js</tspan>
+<tspan x="10" y="11466">542.  2017-04-18 00:58:48 +0000     1412 bytes  src/locale/bootstrap-table-en-US.js</tspan>
+<tspan x="10" y="11482">543.  2017-04-18 00:58:48 +0000     1402 bytes  src/locale/bootstrap-table-en-US.js.template</tspan>
+<tspan x="10" y="11498">544.  2017-04-18 00:58:48 +0000      938 bytes  src/locale/bootstrap-table-es-AR.js</tspan>
+<tspan x="10" y="11514">545.  2017-04-18 00:58:48 +0000     1166 bytes  src/locale/bootstrap-table-es-CL.js</tspan>
+<tspan x="10" y="11530">546.  2017-04-18 00:58:48 +0000     1220 bytes  src/locale/bootstrap-table-es-CR.js</tspan>
+<tspan x="10" y="11546">547.  2017-04-18 00:58:48 +0000     1300 bytes  src/locale/bootstrap-table-es-ES.js</tspan>
+<tspan x="10" y="11562">548.  2017-04-18 00:58:48 +0000     1030 bytes  src/locale/bootstrap-table-es-MX.js</tspan>
+<tspan x="10" y="11578">549.  2017-04-18 00:58:48 +0000     1219 bytes  src/locale/bootstrap-table-es-NI.js</tspan>
+<tspan x="10" y="11594">550.  2017-04-18 00:58:48 +0000     1179 bytes  src/locale/bootstrap-table-es-SP.js</tspan>
+<tspan x="10" y="11610">551.  2017-04-18 00:58:48 +0000     1292 bytes  src/locale/bootstrap-table-et-EE.js</tspan>
+<tspan x="10" y="11626">552.  2017-04-18 00:58:48 +0000     1354 bytes  src/locale/bootstrap-table-fa-IR.js</tspan>
+<tspan x="10" y="11642">553.  2017-04-18 00:58:48 +0000      863 bytes  src/locale/bootstrap-table-fr-BE.js</tspan>
+<tspan x="10" y="11658">554.  2017-04-18 00:58:48 +0000     1286 bytes  src/locale/bootstrap-table-fr-FR.js</tspan>
+<tspan x="10" y="11674">555.  2017-04-18 00:58:48 +0000     1297 bytes  src/locale/bootstrap-table-he-IL.js</tspan>
+<tspan x="10" y="11690">556.  2017-04-18 00:58:48 +0000     1354 bytes  src/locale/bootstrap-table-hr-HR.js</tspan>
+<tspan x="10" y="11706">557.  2017-04-18 00:58:48 +0000     1286 bytes  src/locale/bootstrap-table-hu-HU.js</tspan>
+<tspan x="10" y="11722">558.  2017-04-18 00:58:48 +0000     1454 bytes  src/locale/bootstrap-table-id-ID.js</tspan>
+<tspan x="10" y="11738">559.  2017-04-18 00:58:48 +0000     1593 bytes  src/locale/bootstrap-table-it-IT.js</tspan>
+<tspan x="10" y="11754">560.  2017-04-18 00:58:48 +0000     1363 bytes  src/locale/bootstrap-table-ja-JP.js</tspan>
+<tspan x="10" y="11770">561.  2017-04-18 00:58:48 +0000     1552 bytes  src/locale/bootstrap-table-ka-GE.js</tspan>
+<tspan x="10" y="11786">562.  2017-04-18 00:58:48 +0000     1155 bytes  src/locale/bootstrap-table-ko-KR.js</tspan>
+<tspan x="10" y="11802">563.  2017-04-18 00:58:48 +0000     1330 bytes  src/locale/bootstrap-table-ms-MY.js</tspan>
+<tspan x="10" y="11818">564.  2017-04-18 00:58:48 +0000     1060 bytes  src/locale/bootstrap-table-nb-NO.js</tspan>
+<tspan x="10" y="11834">565.  2017-04-18 00:58:48 +0000     1591 bytes  src/locale/bootstrap-table-nl-NL.js</tspan>
+<tspan x="10" y="11850">566.  2017-04-18 00:58:48 +0000     1096 bytes  src/locale/bootstrap-table-pl-PL.js</tspan>
+<tspan x="10" y="11866">567.  2017-04-18 00:58:48 +0000     1264 bytes  src/locale/bootstrap-table-pt-BR.js</tspan>
+<tspan x="10" y="11882">568.  2017-04-18 00:58:48 +0000     1311 bytes  src/locale/bootstrap-table-pt-PT.js</tspan>
+<tspan x="10" y="11898">569.  2017-04-18 00:58:48 +0000     1281 bytes  src/locale/bootstrap-table-ro-RO.js</tspan>
+<tspan x="10" y="11914">570.  2017-04-18 00:58:48 +0000     2478 bytes  src/locale/bootstrap-table-ru-RU.js</tspan>
+<tspan x="10" y="11930">571.  2017-04-18 00:58:48 +0000     1103 bytes  src/locale/bootstrap-table-sk-SK.js</tspan>
+<tspan x="10" y="11946">572.  2017-04-18 00:58:48 +0000     1065 bytes  src/locale/bootstrap-table-sv-SE.js</tspan>
+<tspan x="10" y="11962">573.  2017-04-18 00:58:48 +0000     1316 bytes  src/locale/bootstrap-table-th-TH.js</tspan>
+<tspan x="10" y="11978">574.  2017-04-18 00:58:48 +0000     1208 bytes  src/locale/bootstrap-table-tr-TR.js</tspan>
+<tspan x="10" y="11994">575.  2017-04-18 00:58:48 +0000     2522 bytes  src/locale/bootstrap-table-uk-UA.js</tspan>
+<tspan x="10" y="12010">576.  2017-04-18 00:58:48 +0000     1151 bytes  src/locale/bootstrap-table-ur-PK.js</tspan>
+<tspan x="10" y="12026">577.  2017-04-18 00:58:48 +0000     1477 bytes  src/locale/bootstrap-table-uz-Latn-UZ.js</tspan>
+<tspan x="10" y="12042">578.  2017-04-18 00:58:48 +0000      863 bytes  src/locale/bootstrap-table-vi-VN.js</tspan>
+<tspan x="10" y="12058">579.  2017-04-18 00:58:48 +0000     1400 bytes  src/locale/bootstrap-table-zh-CN.js</tspan>
+<tspan x="10" y="12074">580.  2017-04-18 00:58:48 +0000     1233 bytes  src/locale/bootstrap-table-zh-TW.js</tspan>
+</text>
+</svg>
