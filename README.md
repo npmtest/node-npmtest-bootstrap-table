@@ -1,4 +1,7 @@
-# test coverage for  [bootstrap-table (v1.11.2)](https://github.com/wenzhixin/bootstrap-table)  [![npm package](https://img.shields.io/npm/v/npmtest-bootstrap-table.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bootstrap-table) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bootstrap-table.svg)](https://travis-ci.org/npmtest/node-npmtest-bootstrap-table)
+# npmtest-bootstrap-table
+
+#### basic test coverage for  [bootstrap-table (v1.11.2)](https://github.com/wenzhixin/bootstrap-table)  [![npm package](https://img.shields.io/npm/v/npmtest-bootstrap-table.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bootstrap-table) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bootstrap-table.svg)](https://travis-ci.org/npmtest/node-npmtest-bootstrap-table)
+
 #### An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. (supports twitter bootstrap v2 and v3).
 
 [![NPM](https://nodei.co/npm/bootstrap-table.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bootstrap-table)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-bootstrap-table/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-bootstrap-table/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-bootstrap-table/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-bootstrap-table/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-bootstrap-table/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-bootstrap-table/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-bootstrap-table/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-bootstrap-table/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-bootstrap-table/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-bootstrap-table/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-bootstrap-table/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-bootstrap-table/build/coverage.html/index.html)
 
@@ -89,7 +92,8 @@
         "url": "git+https://github.com/wenzhixin/bootstrap-table.git"
     },
     "scripts": {},
-    "version": "1.11.2"
+    "version": "1.11.2",
+    "bin": {}
 }
 ```
 
